@@ -1,0 +1,46 @@
+name: Auto Post to Facebook
+
+on:
+  schedule:
+    # Runs every 3 hours. Edit this cron expression to change frequency.
+    # Cron format: minute hour day month weekday (UTC time)
+    - cron: '0 */3 * * *'
+  workflow_dispatch: {}  # allows manual "Run workflow" button too
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create config.json from secrets
+        run: |
+          cat <<EOF > config.json
+          {
+            "template": "{keyword} — Download Now ✓ {link}",
+            "link": "${{ secrets.FIXED_LINK }}",
+            "facebook_page_id": "${{ secrets.FB_PAGE_ID }}",
+            "facebook_access_token": "${{ secrets.FB_ACCESS_TOKEN }}",
+            "posts_per_run": 1
+          }
+          EOF
+
+      - name: Run poster
+        run: python auto_poster.py
+
+      - name: Commit updated posted_log.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add posted_log.json
+          git commit -m "Update posted log [skip ci]" || echo "No changes to commit"
+          git push
