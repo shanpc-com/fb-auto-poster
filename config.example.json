@@ -1,0 +1,7 @@
+{
+  "template": "{keyword} — Download Now ✓ {link}",
+  "link": "https://yourwebsite.com",
+  "facebook_page_id": "YOUR_FACEBOOK_PAGE_ID",
+  "facebook_access_token": "YOUR_PAGE_ACCESS_TOKEN",
+  "posts_per_run": 1
+}
