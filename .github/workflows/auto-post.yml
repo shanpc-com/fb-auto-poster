@@ -23,16 +23,23 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Create config.json from secrets
+        env:
+          FIXED_LINK: ${{ secrets.FIXED_LINK }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
         run: |
-          cat <<EOF > config.json
-          {
-            "template": "{keyword} — Download Now ✓ {link}",
-            "link": "${{ secrets.FIXED_LINK }}",
-            "facebook_page_id": "${{ secrets.FB_PAGE_ID }}",
-            "facebook_access_token": "${{ secrets.FB_ACCESS_TOKEN }}",
-            "posts_per_run": 1
+          python3 -c "
+          import json, os
+          config = {
+              'template': '{keyword} — Download Now ✓ {link}',
+              'link': os.environ['FIXED_LINK'].strip(),
+              'facebook_page_id': os.environ['FB_PAGE_ID'].strip(),
+              'facebook_access_token': os.environ['FB_ACCESS_TOKEN'].strip(),
+              'posts_per_run': 1
           }
-          EOF
+          with open('config.json', 'w', encoding='utf-8') as f:
+              json.dump(config, f, ensure_ascii=False, indent=2)
+          "
 
       - name: Run poster
         run: python auto_poster.py
