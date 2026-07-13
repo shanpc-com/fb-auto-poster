@@ -1,107 +1,124 @@
 #!/usr/bin/env python3
-"""
-Facebook Auto Poster
----------------------
-Reads a list of keywords (from a CSV file), builds a post using a fixed
-template + fixed link, and publishes it to a Facebook Page via the
-Graph API. Designed to be run on a schedule (e.g. GitHub Actions cron,
-a server cron job, or manually).
-
-HOW IT WORKS
-1. Keywords come from keywords.csv (one keyword per line, column "keyword").
-2. Each run, the script picks the NEXT unposted keyword (tracked in
-   posted_log.json so it never repeats one automatically).
-3. It builds the message using TEMPLATE from config.json, where:
-      {keyword} -> replaced with the keyword
-      {link}    -> replaced with your fixed LINK from config.json
-4. It posts the text to your Facebook Page using the Graph API.
-
-This script only posts TEXT. No AI text/image generation is used —
-keeps things simple, transparent, and fully under your control.
-"""
+from __future__ import annotations
 
 import json
-import os
 import sys
-import requests
+from datetime import datetime, timezone
 from pathlib import Path
 
-BASE_DIR = Path(__file__).parent
-CONFIG_PATH = BASE_DIR / "config.json"
+from app.ai import enrich_with_ai
+from app.config import BASE_DIR, load_settings
+from app.facebook import FacebookPoster
+from app.keywords import KeywordItem, load_keywords
+from app.sources import SoftwareData, SourceFetcher
+
 KEYWORDS_PATH = BASE_DIR / "keywords.csv"
 LOG_PATH = BASE_DIR / "posted_log.json"
 
 
-def load_config():
-    if not CONFIG_PATH.exists():
-        sys.exit(f"[ERROR] config.json not found. Copy config.example.json -> config.json and fill it in.")
-    with open(CONFIG_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+def load_log() -> dict:
+    if not LOG_PATH.exists():
+        return {"posted": [], "failed": []}
+    try:
+        value = json.loads(LOG_PATH.read_text(encoding="utf-8"))
+        value.setdefault("posted", [])
+        value.setdefault("failed", [])
+        return value
+    except (json.JSONDecodeError, OSError):
+        return {"posted": [], "failed": []}
 
 
-def load_keywords():
-    if not KEYWORDS_PATH.exists():
-        sys.exit(f"[ERROR] keywords.csv not found. Add your keywords there (one per line, header 'keyword').")
-    keywords = []
-    with open(KEYWORDS_PATH, "r", encoding="utf-8") as f:
-        lines = [line.strip() for line in f if line.strip()]
-    # skip header if present
-    if lines and lines[0].lower() == "keyword":
-        lines = lines[1:]
-    return lines
+def save_log(log: dict) -> None:
+    LOG_PATH.write_text(json.dumps(log, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def load_posted_log():
-    if LOG_PATH.exists():
-        with open(LOG_PATH, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"posted": []}
+def build_message(item: KeywordItem, data: SoftwareData, site_link: str, description: str, features: list[str], hashtags: list[str]) -> str:
+    lines = [item.display_title, "", "📥 Download Now:", site_link, ""]
+    details = [
+        ("📦 Version", data.version), ("🏢 Developer", data.developer),
+        ("💻 Platform", data.operating_system), ("📄 License", data.license_name),
+        ("💾 File Size", data.file_size), ("📅 Updated", data.release_date),
+    ]
+    for label, value in details:
+        if value:
+            lines.append(f"{label}: {value}")
+    if any(value for _, value in details):
+        lines.append("")
+    if description:
+        lines.extend(["📝 About", description[:900], ""])
+    if features:
+        lines.append("✨ Key Features")
+        lines.extend(f"• {feature}" for feature in features[:5])
+        lines.append("")
+    if data.source_name:
+        lines.extend([f"Information source: {data.source_name}", ""])
+    safe_tags = []
+    for tag in hashtags:
+        normalized = "".join(ch for ch in tag if ch.isalnum())
+        if normalized and normalized.lower() not in {x.lower() for x in safe_tags}:
+            safe_tags.append(normalized)
+    if safe_tags:
+        lines.append(" ".join(f"#{tag}" for tag in safe_tags[:8]))
+    return "\n".join(lines).strip()
 
 
-def save_posted_log(log):
-    with open(LOG_PATH, "w", encoding="utf-8") as f:
-        json.dump(log, f, indent=2, ensure_ascii=False)
+def main() -> int:
+    try:
+        settings = load_settings()
+        items = load_keywords(KEYWORDS_PATH)
+    except Exception as exc:
+        print(f"[ERROR] Configuration failed: {exc}")
+        return 2
 
-
-def build_message(template: str, keyword: str, link: str) -> str:
-    return template.replace("{keyword}", keyword).replace("{link}", link)
-
-
-def post_to_facebook(page_id: str, access_token: str, message: str):
-    url = f"https://graph.facebook.com/v19.0/{page_id}/feed"
-    payload = {"message": message, "access_token": access_token}
-    resp = requests.post(url, data=payload, timeout=30)
-    if resp.status_code != 200:
-        sys.exit(f"[ERROR] Facebook API error: {resp.status_code} - {resp.text}")
-    return resp.json()
-
-
-def main():
-    config = load_config()
-    keywords = load_keywords()
-    log = load_posted_log()
-
-    remaining = [k for k in keywords if k not in log["posted"]]
-
+    log = load_log()
+    posted_originals = {entry["keyword"] if isinstance(entry, dict) else entry for entry in log["posted"]}
+    remaining = [item for item in items if item.original not in posted_originals]
     if not remaining:
-        print("[INFO] All keywords have been posted. Add more to keywords.csv, "
-              "or clear posted_log.json to start over.")
-        return
+        print("[INFO] All keywords have been processed.")
+        return 0
 
-    # How many posts to publish this run (default 1, configurable)
-    batch_size = config.get("posts_per_run", 1)
-    batch = remaining[:batch_size]
+    fetcher = SourceFetcher(settings.source_domains, settings.request_timeout)
+    poster = FacebookPoster(settings.page_id, settings.access_token, settings.graph_api_version, settings.request_timeout)
+    completed = 0
 
-    for keyword in batch:
-        message = build_message(config["template"], keyword, config["link"])
-        print(f"[INFO] Posting: {message}")
+    for item in remaining:
+        if completed >= settings.posts_per_run:
+            break
+        print(f"[INFO] Processing: {item.search_term}")
+        try:
+            data = fetcher.fetch(item.search_term, item.source_url)
+            if not data.title:
+                data.title = item.display_title
+            description, features, hashtags = enrich_with_ai(
+                data, settings.ai_provider, settings.ai_api_key, settings.ai_model, settings.request_timeout
+            )
+            link = item.site_link or settings.site_link
+            message = build_message(item, data, link, description, features, hashtags)
+            print("[PREVIEW]\n" + message)
 
-        result = post_to_facebook(config["facebook_page_id"], config["facebook_access_token"], message)
-        print(f"[SUCCESS] Posted. Facebook post id: {result.get('id')}")
+            if settings.dry_run:
+                result = {"id": "dry-run"}
+            else:
+                result = poster.publish(message, link=link, image_url=data.image_url if settings.post_image else "")
 
-        log["posted"].append(keyword)
-        save_posted_log(log)
+            log["posted"].append({
+                "keyword": item.original, "display_title": item.display_title,
+                "facebook_post_id": result.get("id") or result.get("post_id"),
+                "source_url": data.source_url, "posted_at": datetime.now(timezone.utc).isoformat(),
+            })
+            save_log(log)
+            completed += 1
+            print(f"[SUCCESS] Posted: {result.get('id') or result.get('post_id')}")
+        except Exception as exc:
+            print(f"[ERROR] Failed for '{item.search_term}': {exc}")
+            log["failed"].append({"keyword": item.original, "error": str(exc), "failed_at": datetime.now(timezone.utc).isoformat()})
+            save_log(log)
+
+    if completed == 0:
+        print("[ERROR] No post was published in this run.")
+        return 1
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
