@@ -2,52 +2,85 @@ name: Auto Post to Facebook
 
 on:
   schedule:
-    # Runs every 3 hours. Edit this cron expression to change frequency.
-    # Cron format: minute hour day month weekday (UTC time)
     - cron: '0 */3 * * *'
-  workflow_dispatch: {}  # allows manual "Run workflow" button too
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Preview only, do not publish'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: facebook-auto-poster
+  cancel-in-progress: false
 
 jobs:
   post:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: pip
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: python -m pip install --upgrade pip && pip install -r requirements.txt
 
-      - name: Create config.json from secrets
+      - name: Validate required secrets
+        if: ${{ !inputs.dry_run }}
         env:
-          FIXED_LINK: ${{ secrets.FIXED_LINK }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
+          FIXED_LINK: ${{ secrets.FIXED_LINK }}
         run: |
-          python3 -c "
-          import json, os
-          config = {
-              'template': '{keyword} — Download Now ✓ {link}',
-              'link': os.environ['FIXED_LINK'].strip(),
-              'facebook_page_id': os.environ['FB_PAGE_ID'].strip(),
-              'facebook_access_token': os.environ['FB_ACCESS_TOKEN'].strip(),
-              'posts_per_run': 1
-          }
-          with open('config.json', 'w', encoding='utf-8') as f:
-              json.dump(config, f, ensure_ascii=False, indent=2)
-          "
+          python - <<'PY'
+          import os, sys
+          missing = [k for k in ('FB_PAGE_ID','FB_ACCESS_TOKEN','FIXED_LINK') if not os.getenv(k, '').strip()]
+          if missing:
+              print('Missing GitHub Secrets: ' + ', '.join(missing))
+              sys.exit(1)
+          print('Required secrets are present.')
+          PY
 
       - name: Run poster
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
+          FIXED_LINK: ${{ secrets.FIXED_LINK }}
+          AI_PROVIDER: ${{ secrets.AI_PROVIDER }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+          GRAPH_API_VERSION: ${{ secrets.GRAPH_API_VERSION }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
         run: python auto_poster.py
 
-      - name: Commit updated posted_log.json
+      - name: Commit updated post log
+        if: always()
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          if [ ! -f posted_log.json ]; then
+            echo 'No post log created.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add posted_log.json
-          git commit -m "Update posted log [skip ci]" || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo 'No log changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Update Facebook post log [skip ci]'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
