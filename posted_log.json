@@ -10,6 +10,17 @@
       "image_mode": "remote_image",
       "source_url": "https://en.wikipedia.org/wiki/VLC_media_player",
       "posted_at": "2026-07-21T16:49:53.803669+00:00"
+    },
+    {
+      "keyword": "Mozilla Firefox",
+      "display_title": "Mozilla Firefox",
+      "facebook_post_id": "1251105351411133_122114090367387405",
+      "facebook_photo_id": "122114090343387405",
+      "publish_mode": "page_photo_file",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png",
+      "image_mode": "remote_image",
+      "source_url": "https://en.wikipedia.org/wiki/Firefox",
+      "posted_at": "2026-07-21T19:54:54.726783+00:00"
     }
   ],
   "failed": []
