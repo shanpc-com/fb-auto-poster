@@ -25,6 +25,7 @@ class Settings:
     page_id: str
     access_token: str
     site_link: str
+    album_id: str = ""
     graph_api_version: str = "v23.0"
     posts_per_run: int = 1
     ai_provider: str = "none"
@@ -48,6 +49,7 @@ def load_settings() -> Settings:
     page_id = _env("FB_PAGE_ID", str(cfg.get("facebook_page_id", "")))
     token = _env("FB_ACCESS_TOKEN", str(cfg.get("facebook_access_token", "")))
     site_link = _env("FIXED_LINK", str(cfg.get("link", "")))
+    album_id = _env("FB_ALBUM_ID", str(cfg.get("facebook_album_id", "")))
     provider = _env("AI_PROVIDER", str(cfg.get("ai_provider", "none"))).lower()
     api_key = _env("AI_API_KEY", str(cfg.get("ai_api_key", "")))
     model = _env("AI_MODEL", str(cfg.get("ai_model", "")))
@@ -74,6 +76,7 @@ def load_settings() -> Settings:
         page_id=page_id,
         access_token=token,
         site_link=site_link,
+        album_id=album_id,
         graph_api_version=_env("GRAPH_API_VERSION", str(cfg.get("graph_api_version", "v23.0"))),
         posts_per_run=max(1, int(_env("POSTS_PER_RUN", str(cfg.get("posts_per_run", 1))))),
         ai_provider=provider,
