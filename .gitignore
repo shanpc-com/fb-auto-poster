@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-.env
-config.json
-cache/*
-!cache/.gitkeep
-logs/*.log
-!logs/.gitkeep
-.DS_Store
