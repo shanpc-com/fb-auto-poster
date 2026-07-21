@@ -2,6 +2,7 @@
   "link": "https://yourwebsite.com",
   "facebook_page_id": "",
   "facebook_access_token": "",
+  "facebook_album_id": "",
   "graph_api_version": "v23.0",
   "posts_per_run": 1,
   "post_image": true,
