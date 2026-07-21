@@ -78,7 +78,13 @@ def main() -> int:
         return 0
 
     fetcher = SourceFetcher(settings.source_domains, settings.request_timeout)
-    poster = FacebookPoster(settings.page_id, settings.access_token, settings.graph_api_version, settings.request_timeout)
+    poster = FacebookPoster(
+        settings.page_id,
+        settings.access_token,
+        settings.graph_api_version,
+        settings.request_timeout,
+        album_id=settings.album_id,
+    )
     completed = 0
 
     for item in remaining:
@@ -102,13 +108,22 @@ def main() -> int:
                 result = poster.publish(message, link=link, image_url=data.image_url if settings.post_image else "")
 
             log["posted"].append({
-                "keyword": item.original, "display_title": item.display_title,
-                "facebook_post_id": result.get("id") or result.get("post_id"),
-                "source_url": data.source_url, "posted_at": datetime.now(timezone.utc).isoformat(),
+                "keyword": item.original,
+                "display_title": item.display_title,
+                "facebook_post_id": result.get("post_id") or result.get("id"),
+                "facebook_photo_id": result.get("id"),
+                "facebook_album_id": result.get("album_id", ""),
+                "facebook_album_url": result.get("album_url", ""),
+                "publish_mode": result.get("mode", ""),
+                "source_url": data.source_url,
+                "posted_at": datetime.now(timezone.utc).isoformat(),
             })
             save_log(log)
             completed += 1
-            print(f"[SUCCESS] Posted: {result.get('id') or result.get('post_id')}")
+            published_id = result.get("post_id") or result.get("id")
+            print(f"[SUCCESS] Posted: {published_id}")
+            if result.get("album_url"):
+                print(f"[ALBUM] {result['album_url']}")
         except Exception as exc:
             print(f"[ERROR] Failed for '{item.search_term}': {exc}")
             log["failed"].append({"keyword": item.original, "error": str(exc), "failed_at": datetime.now(timezone.utc).isoformat()})
