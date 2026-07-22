@@ -15,3 +15,6 @@
 2026-07-22 14:27:06,168 [INFO] Processing: Pdf Combine Pro Offline Installer
 2026-07-22 14:27:07,337 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
 2026-07-22 14:27:11,089 [INFO] SUCCESS photo posted: 1251105351411133_122114377749387405
+2026-07-22 19:52:21,188 [INFO] Processing: Trueconf Server Offline Installer
+2026-07-22 19:52:22,178 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-22 19:52:26,193 [INFO] SUCCESS photo posted: 1251105351411133_122114469387387405

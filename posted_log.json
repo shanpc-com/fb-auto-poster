@@ -54,6 +54,17 @@
       "image_mode": "remote_image",
       "source_url": "https://en.wikipedia.org/wiki/Skype",
       "posted_at": "2026-07-22T14:27:11.088928+00:00"
+    },
+    {
+      "keyword": "Trueconf Server Offline Installer",
+      "display_title": "Trueconf Server Offline Installer",
+      "facebook_post_id": "1251105351411133_122114469387387405",
+      "facebook_photo_id": "122114469351387405",
+      "publish_mode": "page_photo_file",
+      "image_url": "",
+      "image_mode": "generated_card",
+      "source_url": "",
+      "posted_at": "2026-07-22T19:52:26.193299+00:00"
     }
   ],
   "failed": []
