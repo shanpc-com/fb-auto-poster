@@ -4,3 +4,6 @@
 2026-07-21 19:54:45,127 [INFO] Processing: Mozilla Firefox
 2026-07-21 19:54:46,919 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
 2026-07-21 19:54:54,727 [INFO] SUCCESS photo posted: 1251105351411133_122114090367387405
+2026-07-22 03:50:40,430 [INFO] Processing: Google Chrome
+2026-07-22 03:50:41,561 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-22 03:50:45,013 [INFO] SUCCESS photo posted: 1251105351411133_122114208939387405
