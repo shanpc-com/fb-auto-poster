@@ -32,6 +32,17 @@
       "image_mode": "remote_image",
       "source_url": "https://en.wikipedia.org/wiki/Google_Chrome",
       "posted_at": "2026-07-22T03:50:45.013553+00:00"
+    },
+    {
+      "keyword": "Fidelity Pointwise Offline Installer",
+      "display_title": "Fidelity Pointwise Offline Installer",
+      "facebook_post_id": "1251105351411133_122114283849387405",
+      "facebook_photo_id": "122114283825387405",
+      "publish_mode": "page_photo_file",
+      "image_url": "",
+      "image_mode": "generated_card",
+      "source_url": "",
+      "posted_at": "2026-07-22T09:37:57.361887+00:00"
     }
   ],
   "failed": []
