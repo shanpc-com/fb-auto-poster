@@ -87,7 +87,24 @@
       "image_mode": "generated_card",
       "source_url": "",
       "posted_at": "2026-07-23T06:40:02.898366+00:00"
+    },
+    {
+      "keyword": "Reiboot Pro Offline Installer",
+      "display_title": "Reiboot Pro Offline Installer",
+      "facebook_post_id": "1251105351411133_122114694717387405",
+      "facebook_photo_id": "122114694687387405",
+      "publish_mode": "page_photo_file",
+      "image_url": "",
+      "image_mode": "generated_card",
+      "source_url": "",
+      "posted_at": "2026-07-23T09:36:05.567031+00:00"
     }
   ],
-  "failed": []
+  "failed": [
+    {
+      "keyword": "Explaindio Video Creator Offline Installer",
+      "error": "Facebook photo publish failed (500): {'error': {'code': 1, 'message': \"Please reduce the amount of data you're asking for, then retry your request\"}}",
+      "failed_at": "2026-07-23T09:36:00.327848+00:00"
+    }
+  ]
 }
