@@ -36,3 +36,6 @@
 2026-07-23 14:30:34,820 [INFO] Processing: Hitpaw Watermark Remover Offline Installer
 2026-07-23 14:30:35,483 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
 2026-07-23 14:30:41,304 [INFO] SUCCESS photo posted: 1251105351411133_122114765355387405
+2026-07-23 16:45:21,628 [INFO] Processing: Auto Face Swap Pro Offline Installer
+2026-07-23 16:45:22,667 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-23 16:45:28,068 [INFO] SUCCESS photo posted: 1251105351411133_122114795457387405
