@@ -2,7 +2,7 @@ name: Facebook Auto Poster v5.2
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 * * * *"
 permissions:
   contents: write
 concurrency:
