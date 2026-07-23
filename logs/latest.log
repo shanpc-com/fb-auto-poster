@@ -39,3 +39,9 @@
 2026-07-23 16:45:21,628 [INFO] Processing: Auto Face Swap Pro Offline Installer
 2026-07-23 16:45:22,667 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
 2026-07-23 16:45:28,068 [INFO] SUCCESS photo posted: 1251105351411133_122114795457387405
+2026-07-23 18:37:25,392 [INFO] Processing: Nch Drawpad Pro Offline Installer
+2026-07-23 18:37:26,474 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-23 18:37:41,478 [ERROR] Failed for 'Nch Drawpad Pro Offline Installer': Facebook photo publish failed (500): {'error': {'code': 1, 'message': "Please reduce the amount of data you're asking for, then retry your request"}}
+2026-07-23 18:37:41,479 [INFO] Processing: Apeaksoft Screen Recorder Offline Installer
+2026-07-23 18:37:42,161 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-23 18:37:50,271 [INFO] SUCCESS photo posted: 1251105351411133_122114849349387405

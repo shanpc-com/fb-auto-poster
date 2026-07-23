@@ -131,6 +131,17 @@
       "image_mode": "remote_image",
       "source_url": "https://en.wikipedia.org/wiki/Google_Chrome",
       "posted_at": "2026-07-23T16:45:28.068397+00:00"
+    },
+    {
+      "keyword": "Apeaksoft Screen Recorder Offline Installer",
+      "display_title": "Apeaksoft Screen Recorder Offline Installer",
+      "facebook_post_id": "1251105351411133_122114849349387405",
+      "facebook_photo_id": "122114849097387405",
+      "publish_mode": "page_photo_file",
+      "image_url": "",
+      "image_mode": "generated_card",
+      "source_url": "",
+      "posted_at": "2026-07-23T18:37:50.270547+00:00"
     }
   ],
   "failed": [
@@ -138,6 +149,11 @@
       "keyword": "Explaindio Video Creator Offline Installer",
       "error": "Facebook photo publish failed (500): {'error': {'code': 1, 'message': \"Please reduce the amount of data you're asking for, then retry your request\"}}",
       "failed_at": "2026-07-23T09:36:00.327848+00:00"
+    },
+    {
+      "keyword": "Nch Drawpad Pro Offline Installer",
+      "error": "Facebook photo publish failed (500): {'error': {'code': 1, 'message': \"Please reduce the amount of data you're asking for, then retry your request\"}}",
+      "failed_at": "2026-07-23T18:37:41.478523+00:00"
     }
   ]
 }
