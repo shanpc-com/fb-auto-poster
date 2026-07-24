@@ -175,6 +175,17 @@
       "image_mode": "generated_card",
       "source_url": "",
       "posted_at": "2026-07-23T23:12:21.704981+00:00"
+    },
+    {
+      "keyword": "Musiclab Realstrat Offline Installer",
+      "display_title": "Musiclab Realstrat Offline Installer",
+      "facebook_post_id": "1251105351411133_122114940477387405",
+      "facebook_photo_id": "122114940453387405",
+      "publish_mode": "page_photo_file",
+      "image_url": "",
+      "image_mode": "generated_card",
+      "source_url": "",
+      "posted_at": "2026-07-24T00:11:06.622428+00:00"
     }
   ],
   "failed": [
@@ -187,6 +198,11 @@
       "keyword": "Nch Drawpad Pro Offline Installer",
       "error": "Facebook photo publish failed (500): {'error': {'code': 1, 'message': \"Please reduce the amount of data you're asking for, then retry your request\"}}",
       "failed_at": "2026-07-23T18:37:41.478523+00:00"
+    },
+    {
+      "keyword": "Lobster Ide Professional Offline Installer",
+      "error": "Facebook photo publish failed (500): {'error': {'code': 1, 'message': 'An unknown error occurred', 'error_subcode': 99}}",
+      "failed_at": "2026-07-24T00:10:58.203312+00:00"
     }
   ]
 }
