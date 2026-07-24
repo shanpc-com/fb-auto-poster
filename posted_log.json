@@ -280,6 +280,18 @@
       "image_mode": "generated_card",
       "source_url": "https://en.wikipedia.org/wiki/List_of_video_games_notable_for_negative_reception",
       "posted_at": "2026-07-24T18:49:01.413010+00:00"
+    },
+    {
+      "keyword": "Pdf Annotator Offline Installer",
+      "display_title": "Pdf Annotator Offline Installer",
+      "facebook_post_id": "1251105351411133_122115342441387405",
+      "facebook_photo_id": "122115342411387405",
+      "facebook_permalink": "https://www.facebook.com/122115046281387405/posts/122115342441387405",
+      "publish_mode": "verified_page_photo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1280px-Wikipedia-logo-v2.svg.png",
+      "image_mode": "remote_image",
+      "source_url": "https://en.wikipedia.org/wiki/Wikipedia",
+      "posted_at": "2026-07-24T20:42:17.530819+00:00"
     }
   ],
   "failed": [
@@ -297,6 +309,11 @@
       "keyword": "Lobster Ide Professional Offline Installer",
       "error": "Facebook photo publish failed (500): {'error': {'code': 1, 'message': 'An unknown error occurred', 'error_subcode': 99}}",
       "failed_at": "2026-07-24T00:10:58.203312+00:00"
+    },
+    {
+      "keyword": "The Sims 4 Offline Installer",
+      "error": "Facebook API failed (500): {'error': {'code': 1, 'message': \"Please reduce the amount of data you're asking for, then retry your request\"}}",
+      "failed_at": "2026-07-24T20:42:07.492865+00:00"
     }
   ]
 }
