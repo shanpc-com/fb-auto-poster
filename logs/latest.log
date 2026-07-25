@@ -54,3 +54,10 @@
 2026-07-25 18:07:40,448 [INFO] SUCCESS verified published photo: 1251105351411133_122115686835387405
 2026-07-25 18:07:40,448 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-07-25 18:07:40,448 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-07-25 19:33:36,564 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-07-25 19:33:36,564 [INFO] Processing: Aurora 3d Presentation Offline Installer
+2026-07-25 19:33:37,694 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-25 19:33:42,873 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-07-25 19:33:42,874 [INFO] SUCCESS verified published photo: 1251105351411133_122115716841387405
+2026-07-25 19:33:42,874 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-07-25 19:33:42,874 [INFO] Facebook album URL: https://www.facebook.com/album.php
