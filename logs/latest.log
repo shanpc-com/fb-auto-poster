@@ -110,3 +110,10 @@
 2026-07-26 09:23:12,594 [INFO] SUCCESS verified published photo: 1251105351411133_122115884463387405
 2026-07-26 09:23:12,594 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-07-26 09:23:12,594 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-07-26 11:36:14,211 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-07-26 11:36:14,211 [INFO] Processing: Lansweeper Offline Installer
+2026-07-26 11:36:15,192 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-26 11:36:18,843 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-07-26 11:36:18,845 [INFO] SUCCESS verified published photo: 1251105351411133_122115912903387405
+2026-07-26 11:36:18,845 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-07-26 11:36:18,845 [INFO] Facebook album URL: https://www.facebook.com/album.php
