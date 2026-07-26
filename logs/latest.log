@@ -145,3 +145,10 @@
 2026-07-26 18:11:53,481 [INFO] SUCCESS verified published photo: 1251105351411133_122116060011387405
 2026-07-26 18:11:53,481 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-07-26 18:11:53,481 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-07-26 19:33:38,776 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-07-26 19:33:38,776 [INFO] Processing: Winaso Registry Optimizer Offline Installer
+2026-07-26 19:33:39,951 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-26 19:33:44,069 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-07-26 19:33:44,071 [INFO] SUCCESS verified published photo: 1251105351411133_122116078659387405
+2026-07-26 19:33:44,071 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-07-26 19:33:44,071 [INFO] Facebook album URL: https://www.facebook.com/album.php
