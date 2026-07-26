@@ -117,3 +117,10 @@
 2026-07-26 11:36:18,845 [INFO] SUCCESS verified published photo: 1251105351411133_122115912903387405
 2026-07-26 11:36:18,845 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-07-26 11:36:18,845 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-07-26 13:54:43,663 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-07-26 13:54:43,663 [INFO] Processing: Avs Audio Converter Offline Installer
+2026-07-26 13:54:44,434 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-26 13:54:48,418 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-07-26 13:54:48,420 [INFO] SUCCESS verified published photo: 1251105351411133_122115946899387405
+2026-07-26 13:54:48,420 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-07-26 13:54:48,420 [INFO] Facebook album URL: https://www.facebook.com/album.php
