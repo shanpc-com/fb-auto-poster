@@ -33,3 +33,10 @@
 2026-07-27 20:46:01,437 [INFO] SUCCESS verified published photo: 1251105351411133_122116545921387405
 2026-07-27 20:46:01,437 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-07-27 20:46:01,437 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-07-27 22:29:03,029 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-07-27 22:29:03,029 [INFO] Processing: Parted Magic Offline Installer
+2026-07-27 22:29:03,983 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-27 22:29:10,112 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-07-27 22:29:10,114 [INFO] SUCCESS verified published photo: 1251105351411133_122116562109387405
+2026-07-27 22:29:10,114 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-07-27 22:29:10,114 [INFO] Facebook album URL: https://www.facebook.com/album.php
