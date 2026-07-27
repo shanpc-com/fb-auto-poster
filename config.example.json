@@ -1,0 +1,12 @@
+{
+  "facebook_page_id": "",
+  "facebook_access_token": "",
+  "fixed_link": "https://example.com",
+  "graph_api_version": "v25.0",
+  "posts_per_run": 1,
+  "post_image": true,
+  "dry_run": false,
+  "lawful_content_only": true,
+  "fb_album_id": "",
+  "album_fallback_to_page": true
+}

@@ -1,0 +1,10 @@
+V6 UPDATE METHOD
+================
+1. Keep the existing keywords.csv and posted_log.json in GitHub.
+2. Delete all other old files and folders from the repository.
+3. Extract this ZIP on your computer.
+4. Upload everything inside the extracted folder.
+5. When keywords.csv or posted_log.json conflict, keep your existing GitHub versions.
+6. Confirm this exact path exists: .github/workflows/auto-post.yml
+7. Open Actions > Facebook Auto Poster v6 Verified Publishing > Run workflow.
+8. Check logs/last-publish-status.json and the clean permalink in Actions logs.
