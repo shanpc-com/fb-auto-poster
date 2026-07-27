@@ -5,3 +5,10 @@
 2026-07-27 13:21:07,125 [INFO] SUCCESS verified published photo: 1251105351411133_122116429023387405
 2026-07-27 13:21:07,125 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-07-27 13:21:07,125 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-07-27 13:25:27,060 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-07-27 13:25:27,060 [INFO] Processing: Steelray Project Analyzer Offline Installer
+2026-07-27 13:25:27,968 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-27 13:25:31,294 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-07-27 13:25:31,296 [INFO] SUCCESS verified published photo: 1251105351411133_122116430067387405
+2026-07-27 13:25:31,296 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-07-27 13:25:31,296 [INFO] Facebook album URL: https://www.facebook.com/album.php
