@@ -26,3 +26,10 @@
 2026-07-27 18:49:57,509 [INFO] SUCCESS verified published photo: 1251105351411133_122116524813387405
 2026-07-27 18:49:57,510 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-07-27 18:49:57,510 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-07-27 20:45:56,306 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-07-27 20:45:56,306 [INFO] Processing: Systools Sql Recovery Offline Installer
+2026-07-27 20:45:57,026 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-27 20:46:01,435 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-07-27 20:46:01,437 [INFO] SUCCESS verified published photo: 1251105351411133_122116545921387405
+2026-07-27 20:46:01,437 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-07-27 20:46:01,437 [INFO] Facebook album URL: https://www.facebook.com/album.php
