@@ -40,3 +40,10 @@
 2026-07-27 22:29:10,114 [INFO] SUCCESS verified published photo: 1251105351411133_122116562109387405
 2026-07-27 22:29:10,114 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-07-27 22:29:10,114 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-07-28 00:12:45,373 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-07-28 00:12:45,373 [INFO] Processing: Photoinstrument Offline Installer
+2026-07-28 00:12:46,724 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-28 00:12:52,484 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-07-28 00:12:52,486 [INFO] SUCCESS verified published photo: 1251105351411133_122116604685387405
+2026-07-28 00:12:52,486 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-07-28 00:12:52,486 [INFO] Facebook album URL: https://www.facebook.com/album.php
