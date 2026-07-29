@@ -124,3 +124,10 @@
 2026-07-29 03:44:24,577 [INFO] SUCCESS verified published photo: 1251105351411133_122117018199387405
 2026-07-29 03:44:24,577 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-07-29 03:44:24,577 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-07-29 06:47:29,245 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-07-29 06:47:29,245 [INFO] Processing: Medicat Installer Offline Installer
+2026-07-29 06:47:30,179 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-29 06:47:35,434 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-07-29 06:47:35,436 [INFO] SUCCESS verified published photo: 1251105351411133_122117051643387405
+2026-07-29 06:47:35,436 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-07-29 06:47:35,436 [INFO] Facebook album URL: https://www.facebook.com/album.php
