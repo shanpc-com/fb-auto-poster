@@ -187,3 +187,10 @@
 2026-07-29 23:27:11,064 [INFO] SUCCESS verified published photo: 1251105351411133_122117328933387405
 2026-07-29 23:27:11,064 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-07-29 23:27:11,064 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-07-30 03:33:25,829 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-07-30 03:33:25,829 [INFO] Processing: Panoramastudio Offline Installer
+2026-07-30 03:33:26,902 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-30 03:33:42,848 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-07-30 03:33:42,851 [INFO] SUCCESS verified published photo: 1251105351411133_122117372769387405
+2026-07-30 03:33:42,851 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-07-30 03:33:42,851 [INFO] Facebook album URL: https://www.facebook.com/album.php
