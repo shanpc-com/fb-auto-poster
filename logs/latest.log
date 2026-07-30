@@ -229,3 +229,10 @@
 2026-07-30 16:52:16,410 [INFO] SUCCESS verified published photo: 1251105351411133_122117601273387405
 2026-07-30 16:52:16,410 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-07-30 16:52:16,410 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-07-30 18:49:51,891 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-07-30 18:49:51,891 [INFO] Processing: On1 Photo Raw Offline Installer
+2026-07-30 18:49:52,836 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-07-30 18:49:56,960 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-07-30 18:49:56,963 [INFO] SUCCESS verified published photo: 1251105351411133_122117636919387405
+2026-07-30 18:49:56,963 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-07-30 18:49:56,963 [INFO] Facebook album URL: https://www.facebook.com/album.php
