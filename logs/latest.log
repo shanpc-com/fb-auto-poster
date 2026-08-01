@@ -341,3 +341,10 @@
 2026-08-01 09:24:10,430 [INFO] SUCCESS verified published photo: 1251105351411133_122118297549387405
 2026-08-01 09:24:10,430 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-01 09:24:10,430 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-01 11:36:23,848 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-01 11:36:23,848 [INFO] Processing: Sepantasoft Easy Tweak Offline Installer
+2026-08-01 11:36:24,850 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-01 11:36:27,964 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-01 11:36:27,968 [INFO] SUCCESS verified published photo: 1251105351411133_122118321111387405
+2026-08-01 11:36:27,968 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-01 11:36:27,968 [INFO] Facebook album URL: https://www.facebook.com/album.php
