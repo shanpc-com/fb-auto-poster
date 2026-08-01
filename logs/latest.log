@@ -369,3 +369,10 @@
 2026-08-01 17:18:02,574 [INFO] SUCCESS verified published photo: 1251105351411133_122118389781387405
 2026-08-01 17:18:02,574 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-01 17:18:02,574 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-01 19:36:56,742 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-01 19:36:56,742 [INFO] Processing: Varicad Offline Installer
+2026-08-01 19:36:57,790 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-01 19:37:02,136 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-01 19:37:02,155 [INFO] SUCCESS verified published photo: 1251105351411133_122118415785387405
+2026-08-01 19:37:02,155 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-01 19:37:02,155 [INFO] Facebook album URL: https://www.facebook.com/album.php
