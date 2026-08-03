@@ -530,3 +530,10 @@
 2026-08-03 20:01:10,536 [INFO] SUCCESS verified published photo: 1251105351411133_122119136103387405
 2026-08-03 20:01:10,536 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-03 20:01:10,536 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-03 21:32:25,632 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-03 21:32:25,632 [INFO] Processing: Zoom Cloud Meetings Offline Installer
+2026-08-03 21:32:26,853 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-03 21:32:37,387 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-03 21:32:37,391 [INFO] SUCCESS verified published photo: 1251105351411133_122119161687387405
+2026-08-03 21:32:37,391 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-03 21:32:37,391 [INFO] Facebook album URL: https://www.facebook.com/album.php
