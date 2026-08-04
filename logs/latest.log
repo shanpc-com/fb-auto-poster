@@ -579,3 +579,10 @@
 2026-08-04 15:38:24,617 [INFO] SUCCESS verified published photo: 1251105351411133_122119439673387405
 2026-08-04 15:38:24,617 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-04 15:38:24,617 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-04 18:05:50,303 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-04 18:05:50,303 [INFO] Processing: Ef Checksum Manager Offline Installer
+2026-08-04 18:05:51,478 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-04 18:05:57,593 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-04 18:05:57,597 [INFO] SUCCESS verified published photo: 1251105351411133_122119478763387405
+2026-08-04 18:05:57,597 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-04 18:05:57,597 [INFO] Facebook album URL: https://www.facebook.com/album.php
