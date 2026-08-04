@@ -544,3 +544,10 @@
 2026-08-03 23:29:02,125 [INFO] SUCCESS verified published photo: 1251105351411133_122119199421387405
 2026-08-03 23:29:02,125 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-03 23:29:02,125 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-04 03:41:44,670 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-04 03:41:44,670 [INFO] Processing: Hide My Ip Offline Installer
+2026-08-04 03:41:46,287 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-04 03:41:50,210 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-04 03:41:50,215 [INFO] SUCCESS verified published photo: 1251105351411133_122119238871387405
+2026-08-04 03:41:50,215 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-04 03:41:50,215 [INFO] Facebook album URL: https://www.facebook.com/album.php
