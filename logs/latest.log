@@ -642,3 +642,10 @@
 2026-08-05 15:30:50,662 [INFO] SUCCESS verified published photo: 1251105351411133_122119809813387405
 2026-08-05 15:30:50,662 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-05 15:30:50,662 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-05 17:55:38,901 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-05 17:55:38,901 [INFO] Processing: Restoro Offline Installer
+2026-08-05 17:55:39,592 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-05 17:55:43,160 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-05 17:55:43,165 [INFO] SUCCESS verified published photo: 1251105351411133_122119835415387405
+2026-08-05 17:55:43,165 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-05 17:55:43,165 [INFO] Facebook album URL: https://www.facebook.com/album.php
