@@ -810,3 +810,10 @@
 2026-08-07 21:58:10,325 [INFO] SUCCESS verified published photo: 1251105351411133_122120555751387405
 2026-08-07 21:58:10,325 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-07 21:58:10,325 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-07 22:56:58,758 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-07 22:56:58,758 [INFO] Processing: Vyprvpn Offline Installer
+2026-08-07 22:56:59,793 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-07 22:57:02,888 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-07 22:57:02,894 [INFO] SUCCESS verified published photo: 1251105351411133_122120565087387405
+2026-08-07 22:57:02,894 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-07 22:57:02,894 [INFO] Facebook album URL: https://www.facebook.com/album.php
