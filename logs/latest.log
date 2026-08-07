@@ -782,3 +782,10 @@
 2026-08-07 17:11:09,900 [INFO] SUCCESS verified published photo: 1251105351411133_122120491701387405
 2026-08-07 17:11:09,900 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-07 17:11:09,900 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-07 18:05:03,169 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-07 18:05:03,169 [INFO] Processing: Snapgene Viewer Offline Installer
+2026-08-07 18:05:03,840 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-07 18:05:06,594 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-07 18:05:06,600 [INFO] SUCCESS verified published photo: 1251105351411133_122120511381387405
+2026-08-07 18:05:06,600 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-07 18:05:06,600 [INFO] Facebook album URL: https://www.facebook.com/album.php
