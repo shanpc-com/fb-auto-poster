@@ -740,3 +740,10 @@
 2026-08-07 09:17:38,455 [INFO] SUCCESS verified published photo: 1251105351411133_122120348277387405
 2026-08-07 09:17:38,455 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-07 09:17:38,455 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-07 11:09:50,171 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-07 11:09:50,171 [INFO] Processing: Passfab 4winkey Ultimate Offline Installer
+2026-08-07 11:09:51,054 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-07 11:09:54,800 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-07 11:09:54,805 [INFO] SUCCESS verified published photo: 1251105351411133_122120381529387405
+2026-08-07 11:09:54,805 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-07 11:09:54,806 [INFO] Facebook album URL: https://www.facebook.com/album.php
