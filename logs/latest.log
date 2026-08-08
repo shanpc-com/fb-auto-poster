@@ -950,3 +950,10 @@
 2026-08-08 21:48:23,092 [INFO] SUCCESS verified published photo: 1251105351411133_122120868705387405
 2026-08-08 21:48:23,093 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-08 21:48:23,093 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-08 22:49:58,658 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-08 22:49:58,658 [INFO] Processing: Proxy Switcher Pro Offline Installer
+2026-08-08 22:50:02,209 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-08 22:50:05,393 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-08 22:50:05,399 [INFO] SUCCESS verified published photo: 1251105351411133_122120875635387405
+2026-08-08 22:50:05,399 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-08 22:50:05,399 [INFO] Facebook album URL: https://www.facebook.com/album.php
