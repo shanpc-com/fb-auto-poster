@@ -929,3 +929,10 @@
 2026-08-08 19:01:30,638 [INFO] SUCCESS verified published photo: 1251105351411133_122120838681387405
 2026-08-08 19:01:30,638 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-08 19:01:30,638 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-08 19:46:46,582 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-08 19:46:46,582 [INFO] Processing: Bootracer Premium Offline Installer
+2026-08-08 19:46:47,503 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-08 19:46:50,775 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-08 19:46:50,781 [INFO] SUCCESS verified published photo: 1251105351411133_122120847285387405
+2026-08-08 19:46:50,781 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-08 19:46:50,781 [INFO] Facebook album URL: https://www.facebook.com/album.php
