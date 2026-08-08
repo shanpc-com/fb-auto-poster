@@ -894,3 +894,10 @@
 2026-08-08 14:00:43,045 [INFO] SUCCESS verified published photo: 1251105351411133_122120771883387405
 2026-08-08 14:00:43,045 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-08 14:00:43,045 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-08 14:51:21,318 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-08 14:51:21,319 [INFO] Processing: Avira Phantom Vpn Pro Offline Installer
+2026-08-08 14:51:22,600 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-08 14:51:26,179 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-08 14:51:26,184 [INFO] SUCCESS verified published photo: 1251105351411133_122120789655387405
+2026-08-08 14:51:26,184 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-08 14:51:26,185 [INFO] Facebook album URL: https://www.facebook.com/album.php
