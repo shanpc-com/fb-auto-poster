@@ -936,3 +936,10 @@
 2026-08-08 19:46:50,781 [INFO] SUCCESS verified published photo: 1251105351411133_122120847285387405
 2026-08-08 19:46:50,781 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-08 19:46:50,781 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-08 20:50:56,146 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-08 20:50:56,147 [INFO] Processing: Djay Pro Offline Installer
+2026-08-08 20:50:57,074 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-08 20:51:00,756 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-08 20:51:00,762 [INFO] SUCCESS verified published photo: 1251105351411133_122120859153387405
+2026-08-08 20:51:00,762 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-08 20:51:00,762 [INFO] Facebook album URL: https://www.facebook.com/album.php
