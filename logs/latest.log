@@ -852,3 +852,10 @@
 2026-08-08 07:18:11,042 [INFO] SUCCESS verified published photo: 1251105351411133_122120680995387405
 2026-08-08 07:18:11,042 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-08 07:18:11,042 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-08 09:03:46,864 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-08 09:03:46,864 [INFO] Processing: Jetaudio Music Player Apk Offline Installer
+2026-08-08 09:03:47,648 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-08 09:03:52,032 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-08 09:03:52,037 [INFO] SUCCESS verified published photo: 1251105351411133_122120703645387405
+2026-08-08 09:03:52,037 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-08 09:03:52,038 [INFO] Facebook album URL: https://www.facebook.com/album.php
