@@ -901,3 +901,10 @@
 2026-08-08 14:51:26,184 [INFO] SUCCESS verified published photo: 1251105351411133_122120789655387405
 2026-08-08 14:51:26,184 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-08 14:51:26,185 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-08 15:48:55,787 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-08 15:48:55,788 [INFO] Processing: Launchbox Premium Pc Offline Installer
+2026-08-08 15:48:56,802 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-08 15:49:02,240 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-08 15:49:02,246 [INFO] SUCCESS verified published photo: 1251105351411133_122120803167387405
+2026-08-08 15:49:02,247 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-08 15:49:02,247 [INFO] Facebook album URL: https://www.facebook.com/album.php
