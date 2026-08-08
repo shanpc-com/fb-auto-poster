@@ -845,3 +845,10 @@
 2026-08-08 05:59:22,866 [INFO] SUCCESS verified published photo: 1251105351411133_122120667039387405
 2026-08-08 05:59:22,866 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-08 05:59:22,866 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-08 07:18:07,186 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-08 07:18:07,186 [INFO] Processing: Vidar Audio Raiden Booster Offline Installer
+2026-08-08 07:18:08,252 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-08 07:18:11,037 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-08 07:18:11,042 [INFO] SUCCESS verified published photo: 1251105351411133_122120680995387405
+2026-08-08 07:18:11,042 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-08 07:18:11,042 [INFO] Facebook album URL: https://www.facebook.com/album.php
