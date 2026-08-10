@@ -1153,3 +1153,10 @@
 2026-08-10 15:18:43,702 [INFO] SUCCESS verified published photo: 1251105351411133_122121432855387405
 2026-08-10 15:18:43,702 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-10 15:18:43,702 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-10 17:11:39,056 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-10 17:11:39,056 [INFO] Processing: Jixipix Pastello Pro Offline Installer
+2026-08-10 17:15:00,156 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-10 17:15:06,324 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-10 17:15:06,332 [INFO] SUCCESS verified published photo: 1251105351411133_122121457671387405
+2026-08-10 17:15:06,332 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-10 17:15:06,332 [INFO] Facebook album URL: https://www.facebook.com/album.php
