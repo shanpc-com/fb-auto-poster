@@ -1,26 +1,26 @@
 {
   "status": "success",
-  "keyword": "Winntsetup Offline Installer",
-  "display_title": "Winntsetup Offline Installer",
-  "category": "General Software",
-  "primary_keyword": "Winntsetup Offline Installer",
+  "keyword": "Open Tax Solver Offline Installer",
+  "display_title": "Open Tax Solver Offline Installer",
+  "category": "Browsers",
+  "primary_keyword": "Open Tax Solver Offline Installer",
   "secondary_keywords": [
-    "Winntsetup Offline Installer download",
-    "Winntsetup Offline Installer latest version",
-    "Winntsetup Offline Installer for Windows",
-    "General Software software"
+    "Open Tax Solver Offline Installer download",
+    "Open Tax Solver Offline Installer latest version",
+    "Open Tax Solver Offline Installer for Windows",
+    "Browsers software"
   ],
   "hashtags": [
-    "Winntsetup",
-    "WindowsSoftware",
-    "SoftwareDownload",
-    "Offline",
-    "Installer",
+    "Open",
+    "Tax",
+    "Solver",
+    "WebBrowser",
+    "InternetTools",
+    "Debian",
     "Software",
-    "Windows",
-    "Download"
+    "Windows"
   ],
-  "caption_template_id": 0,
+  "caption_template_id": 2,
   "content_quality_score": 95,
   "facebook_page": {
     "id": "1251105351411133",
@@ -28,19 +28,19 @@
     "username": "latestsoftwaredownload",
     "link": "https://www.facebook.com/1251105351411133"
   },
-  "facebook_post_id": "1251105351411133_122121248049387405",
-  "facebook_photo_id": "122121248049387405",
-  "verified_object_id": "1251105351411133_122121248049387405",
+  "facebook_post_id": "1251105351411133_122121270567387405",
+  "facebook_photo_id": "122121270567387405",
+  "verified_object_id": "1251105351411133_122121270567387405",
   "facebook_permalink": "https://www.facebook.com/photo.php",
   "facebook_is_published": true,
-  "facebook_created_time": "2026-08-10T02:37:04+0000",
-  "facebook_full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/769083477_122121248055387405_3078034354430766104_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=6e5dVGV3WJIQ7kNvwHSt0eA&_nc_oc=AdqTEq1eqgrXTSTJME-QzLae9RT_mwqIFipY0zkkeN3T7TmyR7fskcl_5ZneRoOidNI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJfPMC4EAAAA&_nc_gid=myzzHhGxX__XHMRjAZSe7A&_nc_tpa=Q5bMBQJkPUTUO5Rkar8ShnIeiZbin6QqcPS6FclR_AJlv7Vqbu_mCT9oET0HA0Jv7vbTR22xZz4q-SxnGA&oh=00_AQHgl5O629VtPKXVB9rc_ZywgXzUpLiJFkQrXs1bomy-_A&oe=6A7F204C",
+  "facebook_created_time": "2026-08-10T04:57:01+0000",
+  "facebook_full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/768258396_122121270573387405_4616694382857284371_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=pmvHJpySf5QQ7kNvwFueyIV&_nc_oc=AdoRtQSLfFr3Ausl_yfEF1V0gT4yg5xM05ExJjNkix30VFPXG4VQ7aoke7JMXr9wQZg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJfPMC4EAAAA&_nc_gid=705BfHNOrPX8b5oT5PLF6Q&_nc_tpa=Q5bMBQLqXlvRctNAfe3_5WHnDZjlHHLpni8vttQfF2T1vAEUI-2aQotWVFzB2PqmUf3uIsYz9YFQ2jK0zA&oh=00_AQG82MYiScZZalBXKG7YBYO2yOr8wA_Woomin4DJ6lKM8Q&oe=6A7F4877",
   "publish_mode": "verified_existing_album_photo_v7",
   "facebook_album_id": "122113964517387405",
   "facebook_album_url": "https://www.facebook.com/album.php",
   "album_error": "",
-  "image_url": "",
-  "image_mode": "generated_card",
-  "source_url": "",
-  "posted_at": "2026-08-10T02:37:06.843704+00:00"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Debian_13_%28Trixie%29_screenshot_-_using_GNOME_desktop.png/1280px-Debian_13_%28Trixie%29_screenshot_-_using_GNOME_desktop.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "image_mode": "remote_image",
+  "source_url": "https://en.wikipedia.org/wiki/Debian",
+  "posted_at": "2026-08-10T04:57:05.190693+00:00"
 }
