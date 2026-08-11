@@ -1251,3 +1251,10 @@
 2026-08-11 11:08:57,229 [INFO] SUCCESS verified published photo: 1251105351411133_122121656175387405
 2026-08-11 11:08:57,229 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-11 11:08:57,229 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-11 11:59:58,047 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-11 11:59:58,047 [INFO] Processing: Sound Forge Pro Offline Installer
+2026-08-11 11:59:59,390 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-11 12:00:02,129 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-11 12:00:02,133 [INFO] SUCCESS verified published photo: 1251105351411133_122121667707387405
+2026-08-11 12:00:02,133 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-11 12:00:02,133 [INFO] Facebook album URL: https://www.facebook.com/album.php
