@@ -1237,3 +1237,10 @@
 2026-08-11 09:16:00,089 [INFO] SUCCESS verified published photo: 1251105351411133_122121628521387405
 2026-08-11 09:16:00,089 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-11 09:16:00,089 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-11 10:14:48,297 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-11 10:14:48,297 [INFO] Processing: Pokemon Go Offline Installer
+2026-08-11 10:14:49,992 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-11 10:14:54,513 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-11 10:14:54,520 [INFO] SUCCESS verified published photo: 1251105351411133_122121642849387405
+2026-08-11 10:14:54,520 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-11 10:14:54,520 [INFO] Facebook album URL: https://www.facebook.com/album.php
