@@ -1412,3 +1412,10 @@
 2026-08-12 21:05:39,171 [INFO] SUCCESS verified published photo: 1251105351411133_122122086693387405
 2026-08-12 21:05:39,171 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-12 21:05:39,171 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-12 22:06:06,120 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-12 22:06:06,120 [INFO] Processing: 1tap Cleaner Pro Offline Installer
+2026-08-12 22:06:07,220 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-12 22:06:09,620 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-12 22:06:09,625 [INFO] SUCCESS verified published photo: 1251105351411133_122122100835387405
+2026-08-12 22:06:09,625 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-12 22:06:09,625 [INFO] Facebook album URL: https://www.facebook.com/album.php
