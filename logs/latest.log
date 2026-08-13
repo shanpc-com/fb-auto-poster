@@ -1524,3 +1524,10 @@
 2026-08-13 22:05:43,546 [INFO] SUCCESS verified published photo: 1251105351411133_122122397619387405
 2026-08-13 22:05:43,546 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-13 22:05:43,546 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-13 23:05:12,187 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-13 23:05:12,187 [INFO] Processing: Dragon Naturally Speaking Offline Installer
+2026-08-13 23:05:13,208 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-13 23:05:16,454 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-13 23:05:16,463 [INFO] SUCCESS verified published photo: 1251105351411133_122122407927387405
+2026-08-13 23:05:16,463 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-13 23:05:16,463 [INFO] Facebook album URL: https://www.facebook.com/album.php
