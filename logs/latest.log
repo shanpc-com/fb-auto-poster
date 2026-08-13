@@ -1440,3 +1440,10 @@
 2026-08-13 03:02:14,504 [INFO] SUCCESS verified published photo: 1251105351411133_122122163577387405
 2026-08-13 03:02:14,504 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-13 03:02:14,504 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-13 05:10:07,964 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-13 05:10:07,964 [INFO] Processing: Winx Mediatrans Offline Installer
+2026-08-13 05:10:08,760 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-13 05:10:12,254 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-13 05:10:12,262 [INFO] SUCCESS verified published photo: 1251105351411133_122122193667387405
+2026-08-13 05:10:12,262 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-13 05:10:12,262 [INFO] Facebook album URL: https://www.facebook.com/album.php
