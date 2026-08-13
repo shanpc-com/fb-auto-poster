@@ -1489,3 +1489,10 @@
 2026-08-13 15:18:02,080 [INFO] SUCCESS verified published photo: 1251105351411133_122122324593387405
 2026-08-13 15:18:02,080 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-13 15:18:02,080 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-13 17:15:30,851 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-13 17:15:30,851 [INFO] Processing: Macro Recorder Offline Installer
+2026-08-13 17:15:31,928 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-13 17:15:36,093 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-13 17:15:36,101 [INFO] SUCCESS verified published photo: 1251105351411133_122122346049387405
+2026-08-13 17:15:36,101 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-13 17:15:36,101 [INFO] Facebook album URL: https://www.facebook.com/album.php
