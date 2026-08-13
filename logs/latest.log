@@ -1454,3 +1454,10 @@
 2026-08-13 06:48:57,838 [INFO] SUCCESS verified published photo: 1251105351411133_122122208763387405
 2026-08-13 06:48:57,838 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-13 06:48:57,838 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-13 08:45:33,428 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-13 08:45:33,428 [INFO] Processing: Vovsoft Pdf Reader Offline Installer
+2026-08-13 08:45:34,524 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-13 08:45:37,511 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-13 08:45:37,519 [INFO] SUCCESS verified published photo: 1251105351411133_122122228329387405
+2026-08-13 08:45:37,520 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-13 08:45:37,520 [INFO] Facebook album URL: https://www.facebook.com/album.php
