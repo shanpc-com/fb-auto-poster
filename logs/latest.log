@@ -1559,3 +1559,10 @@
 2026-08-14 06:45:38,623 [INFO] SUCCESS verified published photo: 1251105351411133_122122484163387405
 2026-08-14 06:45:38,623 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-14 06:45:38,623 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-14 08:39:20,221 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-14 08:39:20,221 [INFO] Processing: Gamemaker Studio Ultimate Offline Installer
+2026-08-14 08:39:21,019 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-14 08:39:24,465 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-14 08:39:24,473 [INFO] SUCCESS verified published photo: 1251105351411133_122122504449387405
+2026-08-14 08:39:24,473 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-14 08:39:24,473 [INFO] Facebook album URL: https://www.facebook.com/album.php
