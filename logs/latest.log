@@ -1608,3 +1608,10 @@
 2026-08-14 17:14:41,641 [INFO] SUCCESS verified published photo: 1251105351411133_122122628037387405
 2026-08-14 17:14:41,641 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-14 17:14:41,641 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-14 18:09:42,523 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-14 18:09:42,523 [INFO] Processing: Devexpress Universal Complete Offline Installer
+2026-08-14 18:09:43,467 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-14 18:09:46,558 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-14 18:09:46,567 [INFO] SUCCESS verified published photo: 1251105351411133_122122643727387405
+2026-08-14 18:09:46,567 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-14 18:09:46,567 [INFO] Facebook album URL: https://www.facebook.com/album.php
