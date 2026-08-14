@@ -1629,3 +1629,10 @@
 2026-08-14 19:59:56,307 [INFO] SUCCESS verified published photo: 1251105351411133_122122661271387405
 2026-08-14 19:59:56,307 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-14 19:59:56,307 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-14 20:48:07,642 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-14 20:48:07,643 [INFO] Processing: Steinberg Vst Live Pro Offline Installer
+2026-08-14 20:48:09,169 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-14 20:48:12,534 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-14 20:48:12,561 [INFO] SUCCESS verified published photo: 1251105351411133_122122675635387405
+2026-08-14 20:48:12,561 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-14 20:48:12,561 [INFO] Facebook album URL: https://www.facebook.com/album.php
