@@ -1587,3 +1587,10 @@
 2026-08-14 13:46:53,582 [INFO] SUCCESS verified published photo: 1251105351411133_122122586433387405
 2026-08-14 13:46:53,582 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-14 13:46:53,582 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-14 15:09:17,956 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-14 15:09:17,956 [INFO] Processing: Komodo Ide Offline Installer
+2026-08-14 15:09:18,755 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-14 15:09:21,663 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-14 15:09:21,671 [INFO] SUCCESS verified published photo: 1251105351411133_122122603419387405
+2026-08-14 15:09:21,671 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-14 15:09:21,671 [INFO] Facebook album URL: https://www.facebook.com/album.php
