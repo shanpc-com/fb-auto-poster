@@ -1538,3 +1538,10 @@
 2026-08-14 00:01:16,941 [INFO] SUCCESS verified published photo: 1251105351411133_122122414143387405
 2026-08-14 00:01:16,942 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-14 00:01:16,942 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-14 02:48:32,389 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-14 02:48:32,389 [INFO] Processing: Speedify Offline Installer
+2026-08-14 02:48:33,625 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-14 02:48:36,672 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-14 02:48:36,679 [INFO] SUCCESS verified published photo: 1251105351411133_122122441881387405
+2026-08-14 02:48:36,679 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-14 02:48:36,679 [INFO] Facebook album URL: https://www.facebook.com/album.php
