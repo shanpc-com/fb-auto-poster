@@ -1769,3 +1769,10 @@
 2026-08-15 16:44:11,399 [INFO] SUCCESS verified published photo: 1251105351411133_122122915965387405
 2026-08-15 16:44:11,399 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-15 16:44:11,399 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-15 17:38:36,834 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-15 17:38:36,834 [INFO] Processing: Faasoft Video Converter Offline Installer
+2026-08-15 17:38:37,881 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-15 17:38:41,676 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-15 17:38:41,685 [INFO] SUCCESS verified published photo: 1251105351411133_122122923651387405
+2026-08-15 17:38:41,685 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-15 17:38:41,685 [INFO] Facebook album URL: https://www.facebook.com/album.php
