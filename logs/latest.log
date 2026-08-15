@@ -1657,3 +1657,10 @@
 2026-08-14 23:40:54,279 [INFO] SUCCESS verified published photo: 1251105351411133_122122702875387405
 2026-08-14 23:40:54,279 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-14 23:40:54,279 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-15 01:52:32,568 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-15 01:52:32,568 [INFO] Processing: Uniblue Driverscanner Offline Installer
+2026-08-15 01:52:33,872 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-15 01:52:36,730 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-15 01:52:36,735 [INFO] SUCCESS verified published photo: 1251105351411133_122122721871387405
+2026-08-15 01:52:36,735 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-15 01:52:36,735 [INFO] Facebook album URL: https://www.facebook.com/album.php
