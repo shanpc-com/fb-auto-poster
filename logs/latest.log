@@ -1916,3 +1916,10 @@
 2026-08-16 14:42:06,944 [INFO] SUCCESS verified published photo: 1251105351411133_122123142387387405
 2026-08-16 14:42:06,944 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-16 14:42:06,944 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-16 15:40:09,521 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-16 15:40:09,521 [INFO] Processing: Classroom Spy Professional Offline Installer
+2026-08-16 15:40:12,565 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-16 15:40:16,963 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-16 15:40:16,973 [INFO] SUCCESS verified published photo: 1251105351411133_122123159997387405
+2026-08-16 15:40:16,973 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-16 15:40:16,973 [INFO] Facebook album URL: https://www.facebook.com/album.php
