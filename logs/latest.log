@@ -1923,3 +1923,10 @@
 2026-08-16 15:40:16,973 [INFO] SUCCESS verified published photo: 1251105351411133_122123159997387405
 2026-08-16 15:40:16,973 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-16 15:40:16,973 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-16 16:44:07,921 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-16 16:44:07,921 [INFO] Processing: Perfecttunes Offline Installer
+2026-08-16 16:44:08,887 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-16 16:44:15,215 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-16 16:44:15,225 [INFO] SUCCESS verified published photo: 1251105351411133_122123179509387405
+2026-08-16 16:44:15,225 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-16 16:44:15,225 [INFO] Facebook album URL: https://www.facebook.com/album.php
