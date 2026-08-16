@@ -1860,3 +1860,10 @@
 2026-08-16 07:02:17,110 [INFO] SUCCESS verified published photo: 1251105351411133_122123050953387405
 2026-08-16 07:02:17,110 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-16 07:02:17,110 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-16 07:47:29,360 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-16 07:47:29,360 [INFO] Processing: Darkwave Studio Offline Installer
+2026-08-16 07:47:30,432 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-16 07:47:33,268 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-16 07:47:33,277 [INFO] SUCCESS verified published photo: 1251105351411133_122123061123387405
+2026-08-16 07:47:33,277 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-16 07:47:33,277 [INFO] Facebook album URL: https://www.facebook.com/album.php
