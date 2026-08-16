@@ -1832,3 +1832,10 @@
 2026-08-16 03:14:39,207 [INFO] SUCCESS verified published photo: 1251105351411133_122123016663387405
 2026-08-16 03:14:39,208 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-16 03:14:39,208 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-16 04:03:26,299 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-16 04:03:26,300 [INFO] Processing: Commview For Wifi 2 Offline Installer
+2026-08-16 04:03:27,123 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-16 04:03:29,794 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-16 04:03:29,803 [INFO] SUCCESS verified published photo: 1251105351411133_122123023821387405
+2026-08-16 04:03:29,804 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-16 04:03:29,804 [INFO] Facebook album URL: https://www.facebook.com/album.php
