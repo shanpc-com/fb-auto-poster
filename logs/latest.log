@@ -1909,3 +1909,10 @@
 2026-08-16 13:47:00,511 [INFO] SUCCESS verified published photo: 1251105351411133_122123132889387405
 2026-08-16 13:47:00,511 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-16 13:47:00,511 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-16 14:42:02,963 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-16 14:42:02,963 [INFO] Processing: Easyuefi Enterprise Offline Installer
+2026-08-16 14:42:03,987 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-16 14:42:06,936 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-16 14:42:06,944 [INFO] SUCCESS verified published photo: 1251105351411133_122123142387387405
+2026-08-16 14:42:06,944 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-16 14:42:06,944 [INFO] Facebook album URL: https://www.facebook.com/album.php
