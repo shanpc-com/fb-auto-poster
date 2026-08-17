@@ -2063,3 +2063,10 @@
 2026-08-17 13:55:03,452 [INFO] SUCCESS verified published photo: 1251105351411133_122123507271387405
 2026-08-17 13:55:03,452 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-17 13:55:03,452 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-17 14:47:40,391 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-17 14:47:40,391 [INFO] Processing: Light Image Resizer Offline Installer
+2026-08-17 14:47:41,638 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-17 14:47:45,226 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-17 14:47:45,235 [INFO] SUCCESS verified published photo: 1251105351411133_122123516649387405
+2026-08-17 14:47:45,236 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-17 14:47:45,236 [INFO] Facebook album URL: https://www.facebook.com/album.php
