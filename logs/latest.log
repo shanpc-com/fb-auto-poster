@@ -1986,3 +1986,10 @@
 2026-08-17 01:57:09,686 [INFO] SUCCESS verified published photo: 1251105351411133_122123320065387405
 2026-08-17 01:57:09,686 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-17 01:57:09,686 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-17 03:14:28,195 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-17 03:14:28,195 [INFO] Processing: Chief Architect Premier Offline Installer
+2026-08-17 03:14:29,477 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-17 03:14:33,092 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-17 03:14:33,102 [INFO] SUCCESS verified published photo: 1251105351411133_122123330031387405
+2026-08-17 03:14:33,102 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-17 03:14:33,102 [INFO] Facebook album URL: https://www.facebook.com/album.php
