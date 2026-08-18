@@ -2168,3 +2168,10 @@
 2026-08-18 05:47:47,397 [INFO] SUCCESS verified published photo: 1251105351411133_122123721315387405
 2026-08-18 05:47:47,397 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-18 05:47:47,397 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-18 07:07:20,939 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-18 07:07:20,939 [INFO] Processing: Fast Video Cataloger Offline Installer
+2026-08-18 07:07:22,745 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-18 07:07:26,208 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-18 07:07:26,219 [INFO] SUCCESS verified published photo: 1251105351411133_122123732643387405
+2026-08-18 07:07:26,219 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-18 07:07:26,219 [INFO] Facebook album URL: https://www.facebook.com/album.php
