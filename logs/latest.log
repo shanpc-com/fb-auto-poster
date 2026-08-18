@@ -2266,3 +2266,10 @@
 2026-08-18 19:42:54,647 [INFO] SUCCESS verified published photo: 1251105351411133_122123926215387405
 2026-08-18 19:42:54,647 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-18 19:42:54,647 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-18 20:42:42,403 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-18 20:42:42,404 [INFO] Processing: Google Nik Collection Offline Installer
+2026-08-18 20:42:43,858 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-18 20:42:48,444 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-18 20:42:48,455 [INFO] SUCCESS verified published photo: 1251105351411133_122123933067387405
+2026-08-18 20:42:48,455 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-18 20:42:48,455 [INFO] Facebook album URL: https://www.facebook.com/album.php
