@@ -2343,3 +2343,10 @@
 2026-08-19 07:56:18,462 [INFO] SUCCESS verified published photo: 1251105351411133_122124077691387405
 2026-08-19 07:56:18,463 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-19 07:56:18,463 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-19 08:56:49,982 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-19 08:56:49,982 [INFO] Processing: Claris Filemaker Pro Offline Installer
+2026-08-19 08:56:51,388 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-19 08:56:54,671 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-19 08:56:54,682 [INFO] SUCCESS verified published photo: 1251105351411133_122124089865387405
+2026-08-19 08:56:54,682 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-19 08:56:54,682 [INFO] Facebook album URL: https://www.facebook.com/album.php
