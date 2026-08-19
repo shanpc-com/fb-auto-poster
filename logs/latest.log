@@ -2420,3 +2420,10 @@
 2026-08-19 18:55:57,771 [INFO] SUCCESS verified published photo: 1251105351411133_122124401553387405
 2026-08-19 18:55:57,771 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-19 18:55:57,771 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-19 19:42:25,841 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-19 19:42:25,842 [INFO] Processing: Tuxler Vpn Offline Installer
+2026-08-19 19:42:26,678 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-19 19:42:33,218 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-19 19:42:33,229 [INFO] SUCCESS verified published photo: 1251105351411133_122124411183387405
+2026-08-19 19:42:33,230 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-19 19:42:33,230 [INFO] Facebook album URL: https://www.facebook.com/album.php
