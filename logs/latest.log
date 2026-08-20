@@ -2483,3 +2483,10 @@
 2026-08-20 04:56:10,743 [INFO] SUCCESS verified published photo: 1251105351411133_122124497043387405
 2026-08-20 04:56:10,743 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-20 04:56:10,743 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-20 05:48:32,203 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-20 05:48:32,203 [INFO] Processing: Hdd Regenerator Offline Installer
+2026-08-20 05:48:33,155 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-20 05:48:36,221 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-20 05:48:36,235 [INFO] SUCCESS verified published photo: 1251105351411133_122124528711387405
+2026-08-20 05:48:36,235 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-20 05:48:36,235 [INFO] Facebook album URL: https://www.facebook.com/album.php
