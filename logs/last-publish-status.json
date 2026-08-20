@@ -1,26 +1,26 @@
 {
   "status": "success",
-  "keyword": "Anyburn Pro Offline Installer",
-  "display_title": "Anyburn Pro Offline Installer",
-  "category": "General Software",
-  "primary_keyword": "Anyburn Pro Offline Installer",
+  "keyword": "Pale Moon Offline Installer",
+  "display_title": "Pale Moon Offline Installer",
+  "category": "Browsers",
+  "primary_keyword": "Pale Moon Offline Installer",
   "secondary_keywords": [
-    "Anyburn Pro Offline Installer download",
-    "Anyburn Pro Offline Installer latest version",
-    "Anyburn Pro Offline Installer for Windows",
-    "General Software software"
+    "Pale Moon Offline Installer download",
+    "Pale Moon Offline Installer latest version",
+    "Pale Moon Offline Installer for Windows",
+    "Browsers software"
   ],
   "hashtags": [
-    "Anyburn",
-    "Pro",
-    "WindowsSoftware",
-    "SoftwareDownload",
-    "Offline",
-    "Installer",
+    "Pale",
+    "Moon",
+    "WebBrowser",
+    "InternetTools",
+    "Firefox",
     "Software",
-    "Windows"
+    "Windows",
+    "Download"
   ],
-  "caption_template_id": 3,
+  "caption_template_id": 0,
   "content_quality_score": 95,
   "facebook_page": {
     "id": "1251105351411133",
@@ -28,19 +28,19 @@
     "username": "latestsoftwaredownload",
     "link": "https://www.facebook.com/1251105351411133"
   },
-  "facebook_post_id": "1251105351411133_122124738597387405",
-  "facebook_photo_id": "122124738597387405",
-  "verified_object_id": "1251105351411133_122124738597387405",
+  "facebook_post_id": "1251105351411133_122124746283387405",
+  "facebook_photo_id": "122124746283387405",
+  "verified_object_id": "1251105351411133_122124746283387405",
   "facebook_permalink": "https://www.facebook.com/photo.php",
   "facebook_is_published": true,
-  "facebook_created_time": "2026-08-20T22:47:32+0000",
-  "facebook_full_picture": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/775307661_122124738603387405_3892122274505706938_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=GTyntweSQiMQ7kNvwEtZMua&_nc_oc=Adrofp99YI1k_4uTwPw1QlS7VB48LEZU1nfJIR8kSpqY-aJmPgt-5e8VXSiuZbVf-Bo&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=AJfPMC4EAAAA&_nc_gid=XYWm1Dcj0fZpP0Ai_cpPgA&_nc_tpa=Q5bMBQISBrxeq95LaJ5_N8lGMuVdLnHrgO3X0HPC8IXod5d7--MN3U-H7kHwrRS-J8184IfsnCufly716Q&oh=00_AQE186BltG8rgKWfPPxVZHeuX6uoTx8J3lkF-epTuhC5Hg&oe=6A8D4539",
+  "facebook_created_time": "2026-08-20T23:43:39+0000",
+  "facebook_full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/780104372_122124746289387405_7940041863956232642_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=QWcf_2ZVj3QQ7kNvwEWJL4j&_nc_oc=Adp2GUwtfmYSgDwDDTNUx32LRyS4am3dfgmCPhWeplCEhL3o6Aq_TD7qy11sumj3F4E&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJfPMC4EAAAA&_nc_gid=kmVuDwkV1UnlKIgSpdCW9A&_nc_tpa=Q5bMBQKT6WR-edhQ4gqWy_bx5BDISgcRsH1C5Stbhr_k3qWRuCYEe5aCQEY-llPRcm_4CGcVP3rRVLADYA&oh=00_AQFG3FXPMbx1ODGh3dmg1JDZVE5i7JcA9MlK-yiFN5cf1A&oe=6A8D73CF",
   "publish_mode": "verified_existing_album_photo_v7",
   "facebook_album_id": "122113964517387405",
   "facebook_album_url": "https://www.facebook.com/album.php",
   "album_error": "",
-  "image_url": "",
-  "image_mode": "generated_card",
-  "source_url": "",
-  "posted_at": "2026-08-20T22:47:35.007803+00:00"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "image_mode": "remote_image",
+  "source_url": "https://en.wikipedia.org/wiki/Firefox",
+  "posted_at": "2026-08-20T23:43:43.896208+00:00"
 }
