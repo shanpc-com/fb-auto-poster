@@ -2497,3 +2497,10 @@
 2026-08-20 07:08:55,976 [INFO] SUCCESS verified published photo: 1251105351411133_122124542799387405
 2026-08-20 07:08:55,977 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-20 07:08:55,977 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-20 07:59:08,778 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-20 07:59:08,779 [INFO] Processing: Ashampoo Background Remover Offline Installer
+2026-08-20 07:59:09,813 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-20 07:59:13,192 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-20 07:59:13,204 [INFO] SUCCESS verified published photo: 1251105351411133_122124554127387405
+2026-08-20 07:59:13,204 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-20 07:59:13,204 [INFO] Facebook album URL: https://www.facebook.com/album.php
