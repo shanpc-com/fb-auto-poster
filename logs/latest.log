@@ -2525,3 +2525,10 @@
 2026-08-20 10:49:58,359 [INFO] SUCCESS verified published photo: 1251105351411133_122124591441387405
 2026-08-20 10:49:58,359 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-20 10:49:58,359 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-20 11:45:36,021 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-20 11:45:36,021 [INFO] Processing: Audiothing Effect Bundle Offline Installer
+2026-08-20 11:45:36,888 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-20 11:45:39,776 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-20 11:45:39,789 [INFO] SUCCESS verified published photo: 1251105351411133_122124602139387405
+2026-08-20 11:45:39,789 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-20 11:45:39,789 [INFO] Facebook album URL: https://www.facebook.com/album.php
