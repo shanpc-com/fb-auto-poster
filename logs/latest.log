@@ -2546,3 +2546,10 @@
 2026-08-20 14:03:10,318 [INFO] SUCCESS verified published photo: 1251105351411133_122124635169387405
 2026-08-20 14:03:10,318 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-20 14:03:10,318 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-20 14:57:47,192 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-20 14:57:47,192 [INFO] Processing: Skanect Pro Offline Installer
+2026-08-20 14:57:48,194 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-20 14:57:51,276 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-20 14:57:51,289 [INFO] SUCCESS verified published photo: 1251105351411133_122124646275387405
+2026-08-20 14:57:51,289 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-20 14:57:51,289 [INFO] Facebook album URL: https://www.facebook.com/album.php
