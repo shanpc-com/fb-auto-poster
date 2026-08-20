@@ -2588,3 +2588,10 @@
 2026-08-20 19:48:24,641 [INFO] SUCCESS verified published photo: 1251105351411133_122124701919387405
 2026-08-20 19:48:24,641 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-20 19:48:24,641 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-20 20:48:59,092 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-20 20:48:59,092 [INFO] Processing: Diskeeper Professional Offline Installer
+2026-08-20 20:49:00,122 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-20 20:49:03,131 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-20 20:49:03,144 [INFO] SUCCESS verified published photo: 1251105351411133_122124716889387405
+2026-08-20 20:49:03,144 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-20 20:49:03,144 [INFO] Facebook album URL: https://www.facebook.com/album.php
