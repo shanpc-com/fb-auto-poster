@@ -2742,3 +2742,10 @@
 2026-08-21 19:40:22,015 [INFO] SUCCESS verified published photo: 1251105351411133_122125053561387405
 2026-08-21 19:40:22,015 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-21 19:40:22,015 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-21 20:42:58,482 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-21 20:42:58,482 [INFO] Processing: Hetman Uneraser Offline Installer
+2026-08-21 20:42:59,808 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-21 20:43:02,930 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-21 20:43:02,944 [INFO] SUCCESS verified published photo: 1251105351411133_122125063245387405
+2026-08-21 20:43:02,944 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-21 20:43:02,944 [INFO] Facebook album URL: https://www.facebook.com/album.php
