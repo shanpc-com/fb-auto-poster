@@ -2728,3 +2728,10 @@
 2026-08-21 17:48:23,960 [INFO] SUCCESS verified published photo: 1251105351411133_122125033461387405
 2026-08-21 17:48:23,960 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-21 17:48:23,960 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-21 18:59:16,322 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-21 18:59:16,322 [INFO] Processing: Stardock Windowblinds Offline Installer
+2026-08-21 18:59:17,293 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-21 18:59:21,344 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-21 18:59:21,357 [INFO] SUCCESS verified published photo: 1251105351411133_122125045689387405
+2026-08-21 18:59:21,358 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-21 18:59:21,358 [INFO] Facebook album URL: https://www.facebook.com/album.php
