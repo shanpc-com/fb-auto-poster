@@ -2630,3 +2630,10 @@
 2026-08-21 03:17:57,454 [INFO] SUCCESS verified published photo: 1251105351411133_122124776925387405
 2026-08-21 03:17:57,454 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-21 03:17:57,454 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-21 04:56:44,517 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-21 04:56:44,518 [INFO] Processing: Apeaksoft Phone Mirror Offline Installer
+2026-08-21 04:56:45,234 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-21 04:56:48,277 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-21 04:56:48,290 [INFO] SUCCESS verified published photo: 1251105351411133_122124844995387405
+2026-08-21 04:56:48,291 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-21 04:56:48,291 [INFO] Facebook album URL: https://www.facebook.com/album.php
