@@ -2679,3 +2679,10 @@
 2026-08-21 10:50:35,321 [INFO] SUCCESS verified published photo: 1251105351411133_122124930939387405
 2026-08-21 10:50:35,321 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-21 10:50:35,321 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-21 11:44:57,991 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-21 11:44:57,991 [INFO] Processing: Backup Maker Professional Offline Installer
+2026-08-21 11:44:58,824 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-21 11:45:04,867 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-21 11:45:04,879 [INFO] SUCCESS verified published photo: 1251105351411133_122124953607387405
+2026-08-21 11:45:04,879 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-21 11:45:04,879 [INFO] Facebook album URL: https://www.facebook.com/album.php
