@@ -2847,3 +2847,10 @@
 2026-08-22 11:38:48,075 [INFO] SUCCESS verified published photo: 1251105351411133_122125249989387405
 2026-08-22 11:38:48,075 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-22 11:38:48,075 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-22 13:03:30,420 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-22 13:03:30,420 [INFO] Processing: Mcafee Stinger Offline Installer
+2026-08-22 13:03:31,749 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-22 13:03:35,467 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-22 13:03:35,481 [INFO] SUCCESS verified published photo: 1251105351411133_122125281171387405
+2026-08-22 13:03:35,481 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-22 13:03:35,481 [INFO] Facebook album URL: https://www.facebook.com/album.php
