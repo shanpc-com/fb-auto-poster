@@ -2924,3 +2924,10 @@
 2026-08-22 22:41:34,594 [INFO] SUCCESS verified published photo: 1251105351411133_122125527843387405
 2026-08-22 22:41:34,594 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-22 22:41:34,594 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-22 23:37:53,166 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-22 23:37:53,166 [INFO] Processing: Winarchiver Pro Offline Installer
+2026-08-22 23:37:53,999 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-22 23:37:56,735 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-22 23:37:56,748 [INFO] SUCCESS verified published photo: 1251105351411133_122125534467387405
+2026-08-22 23:37:56,748 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-22 23:37:56,748 [INFO] Facebook album URL: https://www.facebook.com/album.php
