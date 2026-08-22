@@ -2791,3 +2791,10 @@
 2026-08-22 03:58:54,897 [INFO] SUCCESS verified published photo: 1251105351411133_122125168209387405
 2026-08-22 03:58:54,897 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-22 03:58:54,897 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-22 04:52:22,516 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-22 04:52:22,516 [INFO] Processing: Color Efex Pro Offline Installer
+2026-08-22 04:52:24,083 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-22 04:52:27,362 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-22 04:52:27,374 [INFO] SUCCESS verified published photo: 1251105351411133_122125175643387405
+2026-08-22 04:52:27,374 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-22 04:52:27,374 [INFO] Facebook album URL: https://www.facebook.com/album.php
