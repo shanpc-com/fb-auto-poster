@@ -2994,3 +2994,10 @@
 2026-08-23 10:43:53,343 [INFO] SUCCESS verified published photo: 1251105351411133_122125654773387405
 2026-08-23 10:43:53,343 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-23 10:43:53,343 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-23 11:39:23,014 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-23 11:39:23,014 [INFO] Processing: Fixmestick Offline Installer
+2026-08-23 11:39:24,349 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-23 11:39:28,377 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-23 11:39:28,392 [INFO] SUCCESS verified published photo: 1251105351411133_122125672587387405
+2026-08-23 11:39:28,392 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-23 11:39:28,392 [INFO] Facebook album URL: https://www.facebook.com/album.php
