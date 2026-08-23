@@ -2959,3 +2959,10 @@
 2026-08-23 05:47:57,439 [INFO] SUCCESS verified published photo: 1251105351411133_122125595463387405
 2026-08-23 05:47:57,439 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-23 05:47:57,439 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-23 07:04:06,967 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-23 07:04:06,967 [INFO] Processing: Aseprite Offline Installer
+2026-08-23 07:04:07,879 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-23 07:04:11,420 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-23 07:04:11,436 [INFO] SUCCESS verified published photo: 1251105351411133_122125610421387405
+2026-08-23 07:04:11,436 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-23 07:04:11,436 [INFO] Facebook album URL: https://www.facebook.com/album.php
