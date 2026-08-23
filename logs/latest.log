@@ -2945,3 +2945,10 @@
 2026-08-23 03:17:44,153 [INFO] SUCCESS verified published photo: 1251105351411133_122125568523387405
 2026-08-23 03:17:44,153 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-23 03:17:44,153 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-23 04:54:04,213 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-23 04:54:04,213 [INFO] Processing: Toonboom Storyboard Pro Offline Installer
+2026-08-23 04:54:05,092 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-23 04:54:08,395 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-23 04:54:08,409 [INFO] SUCCESS verified published photo: 1251105351411133_122125587567387405
+2026-08-23 04:54:08,410 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-23 04:54:08,410 [INFO] Facebook album URL: https://www.facebook.com/album.php
