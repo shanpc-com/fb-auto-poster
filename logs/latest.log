@@ -3092,3 +3092,10 @@
 2026-08-24 01:59:43,711 [INFO] SUCCESS verified published photo: 1251105351411133_122125835571387405
 2026-08-24 01:59:43,711 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-24 01:59:43,711 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-24 03:18:40,062 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-24 03:18:40,062 [INFO] Processing: Aiseesoft Heic Converter Offline Installer
+2026-08-24 03:18:40,919 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-24 03:18:44,735 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-24 03:18:44,757 [INFO] SUCCESS verified published photo: 1251105351411133_122125844433387405
+2026-08-24 03:18:44,757 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-24 03:18:44,757 [INFO] Facebook album URL: https://www.facebook.com/album.php
