@@ -3183,3 +3183,10 @@
 2026-08-24 16:57:27,742 [INFO] SUCCESS verified published photo: 1251105351411133_122126010339387405
 2026-08-24 16:57:27,742 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-24 16:57:27,742 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-24 17:49:08,522 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-24 17:49:08,522 [INFO] Processing: Apowerpdf Offline Installer
+2026-08-24 17:49:09,430 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-24 17:49:12,935 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-24 17:49:12,948 [INFO] SUCCESS verified published photo: 1251105351411133_122126018715387405
+2026-08-24 17:49:12,948 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-24 17:49:12,948 [INFO] Facebook album URL: https://www.facebook.com/album.php
