@@ -3099,3 +3099,10 @@
 2026-08-24 03:18:44,757 [INFO] SUCCESS verified published photo: 1251105351411133_122125844433387405
 2026-08-24 03:18:44,757 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-24 03:18:44,757 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-24 05:04:24,105 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-24 05:04:24,106 [INFO] Processing: Photodiva Offline Installer
+2026-08-24 05:04:24,931 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-24 05:04:27,569 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-24 05:04:27,583 [INFO] SUCCESS verified published photo: 1251105351411133_122125859829387405
+2026-08-24 05:04:27,583 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-24 05:04:27,583 [INFO] Facebook album URL: https://www.facebook.com/album.php
