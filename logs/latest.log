@@ -3106,3 +3106,10 @@
 2026-08-24 05:04:27,583 [INFO] SUCCESS verified published photo: 1251105351411133_122125859829387405
 2026-08-24 05:04:27,583 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-24 05:04:27,583 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-24 05:55:50,434 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-24 05:55:50,434 [INFO] Processing: Edge Blocker Offline Installer
+2026-08-24 05:55:51,419 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-24 05:55:55,139 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-24 05:55:55,154 [INFO] SUCCESS verified published photo: 1251105351411133_122125866501387405
+2026-08-24 05:55:55,154 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-24 05:55:55,154 [INFO] Facebook album URL: https://www.facebook.com/album.php

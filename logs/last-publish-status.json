@@ -1,26 +1,26 @@
 {
   "status": "success",
-  "keyword": "Photodiva Offline Installer",
-  "display_title": "Photodiva Offline Installer",
-  "category": "Graphics & Design",
-  "primary_keyword": "Photodiva Offline Installer",
+  "keyword": "Edge Blocker Offline Installer",
+  "display_title": "Edge Blocker Offline Installer",
+  "category": "Browsers",
+  "primary_keyword": "Edge Blocker Offline Installer",
   "secondary_keywords": [
-    "Photodiva Offline Installer download",
-    "Photodiva Offline Installer latest version",
-    "Photodiva Offline Installer for Windows",
-    "Graphics & Design software"
+    "Edge Blocker Offline Installer download",
+    "Edge Blocker Offline Installer latest version",
+    "Edge Blocker Offline Installer for Windows",
+    "Browsers software"
   ],
   "hashtags": [
-    "Photodiva",
-    "GraphicDesign",
-    "CreativeSoftware",
-    "Offline",
-    "Installer",
+    "Edge",
+    "Blocker",
+    "WebBrowser",
+    "InternetTools",
+    "Google",
+    "Chrome",
     "Software",
-    "Windows",
-    "Download"
+    "Windows"
   ],
-  "caption_template_id": 0,
+  "caption_template_id": 3,
   "content_quality_score": 95,
   "facebook_page": {
     "id": "1251105351411133",
@@ -28,19 +28,19 @@
     "username": "latestsoftwaredownload",
     "link": "https://www.facebook.com/1251105351411133"
   },
-  "facebook_post_id": "1251105351411133_122125859829387405",
-  "facebook_photo_id": "122125859829387405",
-  "verified_object_id": "1251105351411133_122125859829387405",
+  "facebook_post_id": "1251105351411133_122125866501387405",
+  "facebook_photo_id": "122125866501387405",
+  "verified_object_id": "1251105351411133_122125866501387405",
   "facebook_permalink": "https://www.facebook.com/photo.php",
   "facebook_is_published": true,
-  "facebook_created_time": "2026-08-24T05:04:25+0000",
-  "facebook_full_picture": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/784076093_122125859835387405_6166187712887180693_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=pAbndnpdTKIQ7kNvwHiVUFK&_nc_oc=Adry28d9UWL9GDMb1dbW_7o-n_eY7nrSV3eYWBRNLOAqjJKFnyH0mfFAAoW6lP32ujg&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&edm=AJfPMC4EAAAA&_nc_gid=BW4YFttID_0bvoYY1pZ3ng&_nc_tpa=Q5bMBQI9n0E9pUJR11_C47Nx7WLg5NNkWz_5ekxuSkvSJk1_tT2BdgYpodrD5KagsXsRr_L8nkVdkQ1CrQ&oh=00_AQHnoqPNfrFrq0VAhN20eJ5XQjz0epoxEoJihzBF4gSNxg&oe=6A91B02F",
+  "facebook_created_time": "2026-08-24T05:55:51+0000",
+  "facebook_full_picture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/784077366_122125866507387405_7361772100735409277_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=_Fl_c56Mc8cQ7kNvwFHio2m&_nc_oc=AdoX47hai-gET2AMsF7eYECQl-gxr4hsdaaL85cMypRgQt74rZXAeLkOAUqRnHyu3xo&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=AJfPMC4EAAAA&_nc_gid=aaza5tf9q6_l5D0shkipzA&_nc_tpa=Q5bMBQLZCrRE2d-BFylCjJuhcivJuLpK4bmicCD2UDWAknK3O9mx1xWiytNauFUWXVPNvC8WVjdDmTw2Fg&oh=00_AQEILaWH1cw6s6pDjVv9VlsTXABIIeTl9jgc3-GbtFw8_A&oe=6A91C514",
   "publish_mode": "verified_existing_album_photo_v7",
   "facebook_album_id": "122113964517387405",
   "facebook_album_url": "https://www.facebook.com/album.php",
   "album_error": "",
-  "image_url": "",
-  "image_mode": "generated_card",
-  "source_url": "",
-  "posted_at": "2026-08-24T05:04:27.569302+00:00"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1280px-Google_Chrome_icon_%28February_2022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "image_mode": "remote_image",
+  "source_url": "https://en.wikipedia.org/wiki/Google_Chrome",
+  "posted_at": "2026-08-24T05:55:55.140012+00:00"
 }
