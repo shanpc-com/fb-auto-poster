@@ -3141,3 +3141,10 @@
 2026-08-24 10:56:12,712 [INFO] SUCCESS verified published photo: 1251105351411133_122125923099387405
 2026-08-24 10:56:12,712 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-24 10:56:12,712 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-24 11:46:15,511 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-24 11:46:15,511 [INFO] Processing: Autoplay Media Studio Offline Installer
+2026-08-24 11:46:16,684 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-24 11:46:20,312 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-24 11:46:20,327 [INFO] SUCCESS verified published photo: 1251105351411133_122125931181387405
+2026-08-24 11:46:20,327 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-24 11:46:20,327 [INFO] Facebook album URL: https://www.facebook.com/album.php
