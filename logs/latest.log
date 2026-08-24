@@ -3155,3 +3155,10 @@
 2026-08-24 13:16:32,950 [INFO] SUCCESS verified published photo: 1251105351411133_122125946001387405
 2026-08-24 13:16:32,950 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-24 13:16:32,950 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-24 14:07:55,601 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-24 14:07:55,601 [INFO] Processing: Driverdoc Pro Offline Installer
+2026-08-24 14:07:56,671 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-24 14:07:59,716 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-24 14:07:59,731 [INFO] SUCCESS verified published photo: 1251105351411133_122125954377387405
+2026-08-24 14:07:59,732 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-24 14:07:59,732 [INFO] Facebook album URL: https://www.facebook.com/album.php
