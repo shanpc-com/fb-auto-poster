@@ -3428,3 +3428,10 @@
 2026-08-26 07:11:19,652 [INFO] SUCCESS verified published photo: 1251105351411133_122126602509387405
 2026-08-26 07:11:19,652 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-26 07:11:19,652 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-26 08:02:29,251 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-26 08:02:29,251 [INFO] Processing: Voodooshield Pro Offline Installer
+2026-08-26 08:02:30,497 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-26 08:02:34,037 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-26 08:02:34,054 [INFO] SUCCESS verified published photo: 1251105351411133_122126609985387405
+2026-08-26 08:02:34,054 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-26 08:02:34,054 [INFO] Facebook album URL: https://www.facebook.com/album.php
