@@ -3484,3 +3484,10 @@
 2026-08-26 18:05:20,839 [INFO] SUCCESS verified published photo: 1251105351411133_122126779419387405
 2026-08-26 18:05:20,839 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-26 18:05:20,839 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-26 20:05:32,390 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-26 20:05:32,390 [INFO] Processing: Irix Hdr Classic Pro Offline Installer
+2026-08-26 20:05:33,171 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-26 20:05:37,786 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-26 20:05:37,804 [INFO] SUCCESS verified published photo: 1251105351411133_122126799273387405
+2026-08-26 20:05:37,804 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-26 20:05:37,804 [INFO] Facebook album URL: https://www.facebook.com/album.php
