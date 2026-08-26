@@ -3449,3 +3449,10 @@
 2026-08-26 09:59:58,105 [INFO] SUCCESS verified published photo: 1251105351411133_122126631693387405
 2026-08-26 09:59:58,105 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-26 09:59:58,105 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-26 10:53:23,930 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-26 10:53:23,930 [INFO] Processing: Tweakpower Offline Installer
+2026-08-26 10:53:24,672 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-26 10:53:27,795 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-26 10:53:27,813 [INFO] SUCCESS verified published photo: 1251105351411133_122126642781387405
+2026-08-26 10:53:27,813 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-26 10:53:27,813 [INFO] Facebook album URL: https://www.facebook.com/album.php
