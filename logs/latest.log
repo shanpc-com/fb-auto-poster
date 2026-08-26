@@ -3407,3 +3407,10 @@
 2026-08-26 03:27:28,798 [INFO] SUCCESS verified published photo: 1251105351411133_122126532855387405
 2026-08-26 03:27:28,799 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-26 03:27:28,799 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-26 04:57:57,055 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-26 04:57:57,055 [INFO] Processing: Driverfinder Pro Offline Installer
+2026-08-26 04:57:57,734 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-26 04:58:00,566 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-26 04:58:00,583 [INFO] SUCCESS verified published photo: 1251105351411133_122126544045387405
+2026-08-26 04:58:00,583 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-26 04:58:00,583 [INFO] Facebook album URL: https://www.facebook.com/album.php
