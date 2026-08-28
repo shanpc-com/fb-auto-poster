@@ -3519,3 +3519,10 @@
 2026-08-28 05:27:09,746 [INFO] SUCCESS verified published photo: 1251105351411133_122127275355387405
 2026-08-28 05:27:09,746 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-28 05:27:09,746 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-28 18:46:54,448 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-28 18:46:54,448 [INFO] Processing: Wizflow Flowcharter Offline Installer
+2026-08-28 18:46:55,115 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-28 18:46:58,119 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-28 18:46:58,135 [INFO] SUCCESS verified published photo: 1251105351411133_122127454119387405
+2026-08-28 18:46:58,135 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-28 18:46:58,135 [INFO] Facebook album URL: https://www.facebook.com/album.php
