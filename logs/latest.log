@@ -3512,3 +3512,10 @@
 2026-08-27 20:34:14,111 [INFO] SUCCESS verified published photo: 1251105351411133_122127181953387405
 2026-08-27 20:34:14,111 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-27 20:34:14,111 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-28 05:27:04,946 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-28 05:27:04,946 [INFO] Processing: Magix Samplitude Pro X8 Suite Offline Installer
+2026-08-28 05:27:06,297 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-28 05:27:09,730 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-28 05:27:09,746 [INFO] SUCCESS verified published photo: 1251105351411133_122127275355387405
+2026-08-28 05:27:09,746 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-28 05:27:09,746 [INFO] Facebook album URL: https://www.facebook.com/album.php
