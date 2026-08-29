@@ -3554,3 +3554,10 @@
 2026-08-29 18:34:52,007 [INFO] SUCCESS verified published photo: 1251105351411133_122127792459387405
 2026-08-29 18:34:52,007 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-29 18:34:52,007 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-08-29 21:46:55,345 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-08-29 21:46:55,345 [INFO] Processing: Cloudmounter Offline Installer
+2026-08-29 21:46:56,007 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-08-29 21:46:59,950 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-08-29 21:46:59,967 [INFO] SUCCESS verified published photo: 1251105351411133_122127819627387405
+2026-08-29 21:46:59,967 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-08-29 21:46:59,967 [INFO] Facebook album URL: https://www.facebook.com/album.php
