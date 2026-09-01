@@ -3659,3 +3659,10 @@
 2026-09-01 18:35:20,718 [INFO] SUCCESS verified published photo: 1251105351411133_122128693251387405
 2026-09-01 18:35:20,718 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-01 18:35:20,718 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-01 21:49:35,334 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-01 21:49:35,334 [INFO] Processing: Xlight Ftp Server Pro Offline Installer
+2026-09-01 21:49:36,515 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-01 21:49:39,806 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-01 21:49:39,823 [INFO] SUCCESS verified published photo: 1251105351411133_122128730997387405
+2026-09-01 21:49:39,823 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-01 21:49:39,823 [INFO] Facebook album URL: https://www.facebook.com/album.php
