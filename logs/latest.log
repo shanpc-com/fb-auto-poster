@@ -3631,3 +3631,10 @@
 2026-08-31 23:53:30,308 [INFO] SUCCESS verified published photo: 1251105351411133_122128436919387405
 2026-08-31 23:53:30,308 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-08-31 23:53:30,308 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-01 05:16:11,705 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-01 05:16:11,705 [INFO] Processing: Office Tool Plus Offline Installer
+2026-09-01 05:16:13,156 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-01 05:16:17,421 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-01 05:16:17,439 [INFO] SUCCESS verified published photo: 1251105351411133_122128478955387405
+2026-09-01 05:16:17,440 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-01 05:16:17,440 [INFO] Facebook album URL: https://www.facebook.com/album.php
