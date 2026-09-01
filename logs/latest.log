@@ -3645,3 +3645,10 @@
 2026-09-01 10:13:25,173 [INFO] SUCCESS verified published photo: 1251105351411133_122128536297387405
 2026-09-01 10:13:25,173 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-01 10:13:25,173 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-01 14:57:19,696 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-01 14:57:19,696 [INFO] Processing: Cutting Planner Pro Offline Installer
+2026-09-01 14:57:21,431 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-01 14:57:25,824 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-01 14:57:25,841 [INFO] SUCCESS verified published photo: 1251105351411133_122128629957387405
+2026-09-01 14:57:25,841 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-01 14:57:25,841 [INFO] Facebook album URL: https://www.facebook.com/album.php
