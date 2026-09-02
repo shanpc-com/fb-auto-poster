@@ -3687,3 +3687,10 @@
 2026-09-02 11:25:04,197 [INFO] SUCCESS verified published photo: 1251105351411133_122128860687387405
 2026-09-02 11:25:04,197 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-02 11:25:04,197 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-02 16:38:44,870 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-02 16:38:44,870 [INFO] Processing: Revoice Pro Offline Installer
+2026-09-02 16:38:45,794 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-02 16:38:50,076 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-02 16:38:50,095 [INFO] SUCCESS verified published photo: 1251105351411133_122128983885387405
+2026-09-02 16:38:50,096 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-02 16:38:50,096 [INFO] Facebook album URL: https://www.facebook.com/album.php
