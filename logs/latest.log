@@ -3778,3 +3778,10 @@
 2026-09-04 16:25:57,985 [INFO] SUCCESS verified published photo: 1251105351411133_122130055383387405
 2026-09-04 16:25:57,985 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-04 16:25:57,985 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-04 19:39:17,995 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-04 19:39:17,996 [INFO] Processing: Webdrive Enterprise Offline Installer
+2026-09-04 19:39:18,821 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-04 19:39:22,730 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-04 19:39:22,865 [INFO] SUCCESS verified published photo: 1251105351411133_122130088965387405
+2026-09-04 19:39:22,865 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-04 19:39:22,865 [INFO] Facebook album URL: https://www.facebook.com/album.php
