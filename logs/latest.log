@@ -3869,3 +3869,10 @@
 2026-09-06 13:42:20,226 [INFO] SUCCESS verified published photo: 1251105351411133_122130559239387405
 2026-09-06 13:42:20,226 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-06 13:42:20,227 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-06 17:06:43,171 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-06 17:06:43,171 [INFO] Processing: Outbyte Antivirus Offline Installer
+2026-09-06 17:06:44,366 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-06 17:06:48,427 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-06 17:06:48,448 [INFO] SUCCESS verified published photo: 1251105351411133_122130633753387405
+2026-09-06 17:06:48,448 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-06 17:06:48,448 [INFO] Facebook album URL: https://www.facebook.com/album.php
