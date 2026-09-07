@@ -3918,3 +3918,10 @@
 2026-09-07 16:30:30,638 [INFO] SUCCESS verified published photo: 1251105351411133_122130882117387405
 2026-09-07 16:30:30,638 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-07 16:30:30,639 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-07 20:37:02,290 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-07 20:37:02,290 [INFO] Processing: Vidmore Screen Recorder Offline Installer
+2026-09-07 20:37:03,235 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-07 20:37:08,011 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-07 20:37:08,030 [INFO] SUCCESS verified published photo: 1251105351411133_122130945477387405
+2026-09-07 20:37:08,030 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-07 20:37:08,030 [INFO] Facebook album URL: https://www.facebook.com/album.php
