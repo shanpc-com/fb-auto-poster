@@ -1,26 +1,26 @@
 {
   "status": "success",
-  "keyword": "Google Duo Offline Installer",
-  "display_title": "Google Duo Offline Installer",
+  "keyword": "Imindmap Pro Offline Installer",
+  "display_title": "Imindmap Pro Offline Installer",
   "category": "General Software",
-  "primary_keyword": "Google Duo Offline Installer",
+  "primary_keyword": "Imindmap Pro Offline Installer",
   "secondary_keywords": [
-    "Google Duo Offline Installer download",
-    "Google Duo Offline Installer latest version",
-    "Google Duo Offline Installer for Windows",
+    "Imindmap Pro Offline Installer download",
+    "Imindmap Pro Offline Installer latest version",
+    "Imindmap Pro Offline Installer for Windows",
     "General Software software"
   ],
   "hashtags": [
-    "Google",
-    "Duo",
+    "Imindmap",
+    "Pro",
     "WindowsSoftware",
     "SoftwareDownload",
+    "Offline",
+    "Installer",
     "Software",
-    "Windows",
-    "Download",
-    "LatestSoftwareDownload"
+    "Windows"
   ],
-  "caption_template_id": 1,
+  "caption_template_id": 3,
   "content_quality_score": 95,
   "facebook_page": {
     "id": "1251105351411133",
@@ -28,19 +28,19 @@
     "username": "latestsoftwaredownload",
     "link": "https://www.facebook.com/1251105351411133"
   },
-  "facebook_post_id": "1251105351411133_122131205217387405",
-  "facebook_photo_id": "122131205217387405",
-  "verified_object_id": "1251105351411133_122131205217387405",
+  "facebook_post_id": "1251105351411133_122131268487387405",
+  "facebook_photo_id": "122131268487387405",
+  "verified_object_id": "1251105351411133_122131268487387405",
   "facebook_permalink": "https://www.facebook.com/photo.php",
   "facebook_is_published": true,
-  "facebook_created_time": "2026-09-08T14:36:14+0000",
-  "facebook_full_picture": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/800842810_122131205223387405_1172057174070543860_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=l7b-SCqYRRIQ7kNvwGlBcr-&_nc_oc=AdpTDzBpGiAEkjHABnLWvIpC4x8najHPyvjJrzaxWXcfxhm6LYXRB9sDaqbVg4f2pTA&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&edm=AJfPMC4EAAAA&_nc_gid=-pY6YCV6PBPriK9ik8AZKw&_nc_tpa=Q5bMBQJ_ovRt0QJahrfDcmfW_mrkyVtAr1ujG_J-69zMvMTDqFl9eRsCkg65NvqBCGxPjUkCH2WrCsV5Nw&oh=00_AQLHMy0RwWv4HmRxWC-aU8YcSiFjzE8M7Eg4eXsx7TC-2Q&oe=6AA6042B",
+  "facebook_created_time": "2026-09-08T18:44:41+0000",
+  "facebook_full_picture": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/797841480_122131268493387405_7339878641212933695_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=yG3hQH7W3iYQ7kNvwGjToE1&_nc_oc=Adp7FRXNYIMX_wR9FTAt769WbntJhcereOV1u-qzsGhT-YjbE2Fe_WTa62wsgN69-N8&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=AJfPMC4EAAAA&_nc_gid=l7Fuqjo56MOP4UyEHQhQ0w&_nc_tpa=Q5bMBQI_ENBsz8GaRntncINh1YUC5kOV5RpxqAR307Qz8H9xgAnj9ff2S5ctpX1pacCPgtaF2qfRaQdAmQ&oh=00_AQJBdy-l1g9giTEkCgWdQ4ibiEorXMNI4HwBxSMxJSXoCg&oe=6AA62421",
   "publish_mode": "verified_existing_album_photo_v7",
   "facebook_album_id": "122113964517387405",
   "facebook_album_url": "https://www.facebook.com/album.php",
   "album_error": "",
-  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/1280px-Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "image_mode": "remote_image",
-  "source_url": "https://en.wikipedia.org/wiki/Google",
-  "posted_at": "2026-09-08T14:36:16.947802+00:00"
+  "image_url": "",
+  "image_mode": "generated_card",
+  "source_url": "",
+  "posted_at": "2026-09-08T18:44:45.240705+00:00"
 }
