@@ -3988,3 +3988,10 @@
 2026-09-09 11:30:35,810 [INFO] SUCCESS verified published photo: 1251105351411133_122131464003387405
 2026-09-09 11:30:35,810 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-09 11:30:35,810 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-09 16:42:35,235 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-09 16:42:35,236 [INFO] Processing: Flying Logic Pro Offline Installer
+2026-09-09 16:42:36,582 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-09 16:42:39,302 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-09 16:42:39,318 [INFO] SUCCESS verified published photo: 1251105351411133_122131530519387405
+2026-09-09 16:42:39,319 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-09 16:42:39,319 [INFO] Facebook album URL: https://www.facebook.com/album.php
