@@ -4093,3 +4093,10 @@
 2026-09-11 22:38:13,992 [INFO] SUCCESS verified published photo: 1251105351411133_122132139945387405
 2026-09-11 22:38:13,992 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-11 22:38:13,992 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-12 01:10:50,463 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-12 01:10:50,463 [INFO] Processing: Easeus Recexperts Pro Offline Installer
+2026-09-12 01:10:51,165 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-12 01:10:54,350 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-12 01:10:54,370 [INFO] SUCCESS verified published photo: 1251105351411133_122132161431387405
+2026-09-12 01:10:54,370 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-12 01:10:54,370 [INFO] Facebook album URL: https://www.facebook.com/album.php
