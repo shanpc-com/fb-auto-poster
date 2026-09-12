@@ -4114,3 +4114,10 @@
 2026-09-12 10:53:09,892 [INFO] SUCCESS verified published photo: 1251105351411133_122132237211387405
 2026-09-12 10:53:09,892 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-12 10:53:09,892 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-12 14:11:33,717 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-12 14:11:33,717 [INFO] Processing: Fonedog Toolkit For Ios Offline Installer
+2026-09-12 14:11:34,693 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-12 14:11:38,900 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-12 14:11:38,914 [INFO] SUCCESS verified published photo: 1251105351411133_122132266815387405
+2026-09-12 14:11:38,914 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-12 14:11:38,914 [INFO] Facebook album URL: https://www.facebook.com/album.php
