@@ -4163,3 +4163,10 @@
 2026-09-13 12:03:46,903 [INFO] SUCCESS verified published photo: 1251105351411133_122132519373387405
 2026-09-13 12:03:46,904 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-13 12:03:46,904 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-13 16:23:45,104 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-13 16:23:45,104 [INFO] Processing: Zonealarm Extreme Security Offline Installer
+2026-09-13 16:23:46,587 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-13 16:23:52,813 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-13 16:23:52,825 [INFO] SUCCESS verified published photo: 1251105351411133_122132560797387405
+2026-09-13 16:23:52,825 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-13 16:23:52,825 [INFO] Facebook album URL: https://www.facebook.com/album.php
