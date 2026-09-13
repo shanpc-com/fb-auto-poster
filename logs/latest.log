@@ -4142,3 +4142,10 @@
 2026-09-12 22:21:34,999 [INFO] SUCCESS verified published photo: 1251105351411133_122132389839387405
 2026-09-12 22:21:34,999 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-12 22:21:34,999 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-13 01:04:51,087 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-13 01:04:51,087 [INFO] Processing: Portscan Stuff Offline Installer
+2026-09-13 01:04:52,096 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-13 01:04:55,188 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-13 01:04:55,201 [INFO] SUCCESS verified published photo: 1251105351411133_122132409309387405
+2026-09-13 01:04:55,201 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-13 01:04:55,201 [INFO] Facebook album URL: https://www.facebook.com/album.php
