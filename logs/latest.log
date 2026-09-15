@@ -4247,3 +4247,10 @@
 2026-09-15 18:15:17,503 [INFO] SUCCESS verified published photo: 1251105351411133_122133152769387405
 2026-09-15 18:15:17,503 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-15 18:15:17,503 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-15 21:29:18,986 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-15 21:29:18,987 [INFO] Processing: Airmypc Offline Installer
+2026-09-15 21:29:19,819 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-15 21:29:24,221 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-15 21:29:24,241 [INFO] SUCCESS verified published photo: 1251105351411133_122133201513387405
+2026-09-15 21:29:24,241 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-15 21:29:24,241 [INFO] Facebook album URL: https://www.facebook.com/album.php
