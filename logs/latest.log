@@ -4268,3 +4268,10 @@
 2026-09-16 06:06:04,963 [INFO] SUCCESS verified published photo: 1251105351411133_122133302181387405
 2026-09-16 06:06:04,963 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-16 06:06:04,963 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-16 11:43:14,563 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-16 11:43:14,563 [INFO] Processing: Nsasoft Product Explorer Offline Installer
+2026-09-16 11:43:15,617 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-16 11:43:24,118 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-16 11:43:24,138 [INFO] SUCCESS verified published photo: 1251105351411133_122133375657387405
+2026-09-16 11:43:24,138 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-16 11:43:24,138 [INFO] Facebook album URL: https://www.facebook.com/album.php
