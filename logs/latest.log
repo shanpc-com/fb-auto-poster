@@ -4275,3 +4275,10 @@
 2026-09-16 11:43:24,138 [INFO] SUCCESS verified published photo: 1251105351411133_122133375657387405
 2026-09-16 11:43:24,138 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-16 11:43:24,138 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-16 17:04:50,631 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-16 17:04:50,631 [INFO] Processing: Yum Audio Extractor Offline Installer
+2026-09-16 17:04:51,796 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-16 17:04:57,618 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-16 17:04:57,639 [INFO] SUCCESS verified published photo: 1251105351411133_122133422919387405
+2026-09-16 17:04:57,639 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-16 17:04:57,639 [INFO] Facebook album URL: https://www.facebook.com/album.php
