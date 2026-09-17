@@ -4303,3 +4303,10 @@
 2026-09-17 01:28:56,559 [INFO] SUCCESS verified published photo: 1251105351411133_122133491457387405
 2026-09-17 01:28:56,559 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-17 01:28:56,559 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-17 07:44:56,756 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-17 07:44:56,756 [INFO] Processing: Family Tree Builder Offline Installer
+2026-09-17 07:44:58,103 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-17 07:45:02,191 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-17 07:45:02,211 [INFO] SUCCESS verified published photo: 1251105351411133_122133539805387405
+2026-09-17 07:45:02,211 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-17 07:45:02,211 [INFO] Facebook album URL: https://www.facebook.com/album.php
