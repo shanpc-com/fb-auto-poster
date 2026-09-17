@@ -4296,3 +4296,10 @@
 2026-09-16 22:59:38,793 [INFO] SUCCESS verified published photo: 1251105351411133_122133473493387405
 2026-09-16 22:59:38,793 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-16 22:59:38,793 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-17 01:28:53,688 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-17 01:28:53,688 [INFO] Processing: Havij Pro Offline Installer
+2026-09-17 01:28:54,301 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-17 01:28:56,538 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-17 01:28:56,559 [INFO] SUCCESS verified published photo: 1251105351411133_122133491457387405
+2026-09-17 01:28:56,559 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-17 01:28:56,559 [INFO] Facebook album URL: https://www.facebook.com/album.php
