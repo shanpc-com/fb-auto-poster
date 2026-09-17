@@ -4310,3 +4310,10 @@
 2026-09-17 07:45:02,211 [INFO] SUCCESS verified published photo: 1251105351411133_122133539805387405
 2026-09-17 07:45:02,211 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-17 07:45:02,211 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-17 13:32:31,737 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-17 13:32:31,737 [INFO] Processing: Renee Becca Offline Installer
+2026-09-17 13:32:33,108 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-17 13:32:35,355 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-17 13:32:35,377 [INFO] SUCCESS verified published photo: 1251105351411133_122133687477387405
+2026-09-17 13:32:35,377 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-17 13:32:35,377 [INFO] Facebook album URL: https://www.facebook.com/album.php
