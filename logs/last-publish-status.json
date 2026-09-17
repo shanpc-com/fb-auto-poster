@@ -1,26 +1,26 @@
 {
   "status": "success",
-  "keyword": "Ocenaudio Offline Installer",
-  "display_title": "Ocenaudio Offline Installer",
-  "category": "Audio & Video",
-  "primary_keyword": "Ocenaudio Offline Installer",
+  "keyword": "Rj Texted Offline Installer",
+  "display_title": "Rj Texted Offline Installer",
+  "category": "Developer Tools",
+  "primary_keyword": "Rj Texted Offline Installer",
   "secondary_keywords": [
-    "Ocenaudio Offline Installer download",
-    "Ocenaudio Offline Installer latest version",
-    "Ocenaudio Offline Installer for Windows",
-    "Audio & Video software"
+    "Rj Texted Offline Installer download",
+    "Rj Texted Offline Installer latest version",
+    "Rj Texted Offline Installer for Windows",
+    "Developer Tools software"
   ],
   "hashtags": [
-    "Ocenaudio",
-    "VideoSoftware",
-    "AudioSoftware",
-    "Offline",
-    "Installer",
+    "Rj",
+    "Texted",
+    "DeveloperTools",
+    "Programming",
+    "Computer",
+    "security",
     "Software",
-    "Windows",
-    "Download"
+    "Windows"
   ],
-  "caption_template_id": 0,
+  "caption_template_id": 3,
   "content_quality_score": 95,
   "facebook_page": {
     "id": "1251105351411133",
@@ -28,19 +28,19 @@
     "username": "latestsoftwaredownload",
     "link": "https://www.facebook.com/1251105351411133"
   },
-  "facebook_post_id": "1251105351411133_122133728589387405",
-  "facebook_photo_id": "122133728589387405",
-  "verified_object_id": "1251105351411133_122133728589387405",
+  "facebook_post_id": "1251105351411133_122133773367387405",
+  "facebook_photo_id": "122133773367387405",
+  "verified_object_id": "1251105351411133_122133773367387405",
   "facebook_permalink": "https://www.facebook.com/photo.php",
   "facebook_is_published": true,
-  "facebook_created_time": "2026-09-17T18:18:07+0000",
-  "facebook_full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/793337090_122133728595387405_6239113101026512604_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=QyxvIWGW1wQQ7kNvwHdpNWm&_nc_oc=AdoJjMi0a-SYiYoB2--0sweTp1CDtTSKFULn24baOEb__dcRoVNs06CW1U9yWA0uaIg&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=EZ2rhOA6JFPVZ3JgrPPhgg&_nc_tpa=Q5bMBQKCgm_KbCG_dP5dI9d46TFDkmFe-fHid6aAEITtPcdWM3zgsK-UN7YCe__GtKpnVdTgvfaJAcgZIQ&oh=00_AQIjEroSmBA5DBdez5LYDecQ-VaH1OayEx-8DYnn75ouDQ&oe=6AB1E61D",
+  "facebook_created_time": "2026-09-17T22:13:47+0000",
+  "facebook_full_picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/813966189_122133773373387405_7640316223999207346_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=yp7-4E-mvVUQ7kNvwFE6WCS&_nc_oc=AdodF1tbdZOhPkujibQoKTzo5vJy72LFVWYQp8QA3PDcYCyvYdpPXMoljPs0T0mEQWI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJfPMC4EAAAA&_nc_gid=Ja7e3py_c568biP8oBzszQ&_nc_tpa=Q5bMBQJNzwtyGMypK8pkbz_RdVuZ6RNIPpvO2Fms9kPgLC6t79V2ChI6ccbzVJJk28_505y8Vo-Dqf16eQ&oh=00_AQJIlloURKA3BsbkOKkjnt-WGIVS0tyPMTJdZVQRuA_93w&oe=6AB21E3A",
   "publish_mode": "verified_existing_album_photo_v7",
   "facebook_album_id": "122113964517387405",
   "facebook_album_url": "https://www.facebook.com/album.php",
   "album_error": "",
-  "image_url": "",
-  "image_mode": "generated_card",
-  "source_url": "",
-  "posted_at": "2026-09-17T18:18:10.573828+00:00"
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/1280px-Operating_system_placement.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "image_mode": "remote_image",
+  "source_url": "https://en.wikipedia.org/wiki/Computer_security",
+  "posted_at": "2026-09-17T22:13:51.467518+00:00"
 }
