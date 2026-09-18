@@ -4331,3 +4331,10 @@
 2026-09-17 22:13:51,486 [INFO] SUCCESS verified published photo: 1251105351411133_122133773367387405
 2026-09-17 22:13:51,486 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-17 22:13:51,486 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-18 00:26:29,113 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-18 00:26:29,114 [INFO] Processing: Vmware Horizon Offline Installer
+2026-09-18 00:26:30,519 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-18 00:26:33,262 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-18 00:26:33,284 [INFO] SUCCESS verified published photo: 1251105351411133_122133806295387405
+2026-09-18 00:26:33,284 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-18 00:26:33,284 [INFO] Facebook album URL: https://www.facebook.com/album.php
