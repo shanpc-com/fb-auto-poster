@@ -4520,3 +4520,10 @@
 2026-09-22 14:59:25,730 [INFO] SUCCESS verified published photo: 1251105351411133_122135147421387405
 2026-09-22 14:59:25,730 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-22 14:59:25,730 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-22 18:57:39,821 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-22 18:57:39,821 [INFO] Processing: Camscanner Pdf Creator Offline Installer
+2026-09-22 18:57:40,881 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-22 18:57:43,403 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-22 18:57:43,424 [INFO] SUCCESS verified published photo: 1251105351411133_122135231895387405
+2026-09-22 18:57:43,424 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-22 18:57:43,424 [INFO] Facebook album URL: https://www.facebook.com/album.php
