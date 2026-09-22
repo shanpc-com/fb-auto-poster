@@ -1,26 +1,26 @@
 {
   "status": "success",
-  "keyword": "Wipersoft Offline Installer",
-  "display_title": "Wipersoft Offline Installer",
-  "category": "General Software",
-  "primary_keyword": "Wipersoft Offline Installer",
+  "keyword": "Color Finale Pro Offline Installer",
+  "display_title": "Color Finale Pro Offline Installer",
+  "category": "Developer Tools",
+  "primary_keyword": "Color Finale Pro Offline Installer",
   "secondary_keywords": [
-    "Wipersoft Offline Installer download",
-    "Wipersoft Offline Installer latest version",
-    "Wipersoft Offline Installer for Windows",
-    "General Software software"
+    "Color Finale Pro Offline Installer download",
+    "Color Finale Pro Offline Installer latest version",
+    "Color Finale Pro Offline Installer for Windows",
+    "Developer Tools software"
   ],
   "hashtags": [
-    "Wipersoft",
-    "WindowsSoftware",
-    "SoftwareDownload",
-    "Offline",
-    "Installer",
-    "Software",
-    "Windows",
-    "Download"
+    "Color",
+    "Finale",
+    "Pro",
+    "DeveloperTools",
+    "Programming",
+    "SpongeBob",
+    "SquarePants",
+    "Software"
   ],
-  "caption_template_id": 2,
+  "caption_template_id": 0,
   "content_quality_score": 95,
   "facebook_page": {
     "id": "1251105351411133",
@@ -28,19 +28,19 @@
     "username": "latestsoftwaredownload",
     "link": "https://www.facebook.com/1251105351411133"
   },
-  "facebook_post_id": "1251105351411133_122135082945387405",
-  "facebook_photo_id": "122135082945387405",
-  "verified_object_id": "1251105351411133_122135082945387405",
+  "facebook_post_id": "1251105351411133_122135147421387405",
+  "facebook_photo_id": "122135147421387405",
+  "verified_object_id": "1251105351411133_122135147421387405",
   "facebook_permalink": "https://www.facebook.com/photo.php",
   "facebook_is_published": true,
-  "facebook_created_time": "2026-09-22T10:03:07+0000",
-  "facebook_full_picture": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/817904172_122135082951387405_1850906137640706870_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=HV0sRibaftMQ7kNvwE2RI3h&_nc_oc=AdrtC6dSHKFtY6rzWEXBGX4cjVsE5sdovNZ51zMVVZ0HqLrqeFDfK31UGIT7pTYuFNI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=AJfPMC4EAAAA&_nc_gid=NWtdDTr_qqBpgclwsXF82Q&_nc_tpa=Q5bMBQIC0P6d3Z1xsfJsLMBpGzmuFfVcXQl_uhzBBjQzEFQ89ckxHyq2iplenRwJFa847YhupYBwr47oTw&oh=00_AQIb15ilm8dmkzLvRnzDeECyOlWD5JRSkLvuU7nEWt8gJw&oe=6AB836F3",
+  "facebook_created_time": "2026-09-22T14:59:22+0000",
+  "facebook_full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/819068746_122135147427387405_3991552033098175308_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=y2wGSvnJyfoQ7kNvwE4fLrP&_nc_oc=AdpiQJD3sm1gADnziwWWS1rwtqkvhnqpWyl6hFFy3VO3d3SG7NOE53UM07OIjz5DgpI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJfPMC4EAAAA&_nc_gid=_z0D_ovkxJcUZRX2z2kYqA&_nc_tpa=Q5bMBQJLc3gX30jpFpBobatf5zfo_L3lde9sIyeXjEqgwTT5wflsE_syaQtUzwvz9qVb-7K0-YsRYshVgg&oh=00_AQJxTtz63FssGtX9b6gf7yfUkF7GnqwbQ4b3hNoTQCKStA&oe=6AB86E1F",
   "publish_mode": "verified_existing_album_photo_v7",
   "facebook_album_id": "122113964517387405",
   "facebook_album_url": "https://www.facebook.com/album.php",
   "album_error": "",
-  "image_url": "",
-  "image_mode": "generated_card",
-  "source_url": "",
-  "posted_at": "2026-09-22T10:03:11.250064+00:00"
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/SpongeBob_SquarePants_Logo_%282008%29.svg/1280px-SpongeBob_SquarePants_Logo_%282008%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "image_mode": "remote_image",
+  "source_url": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants",
+  "posted_at": "2026-09-22T14:59:25.713504+00:00"
 }
