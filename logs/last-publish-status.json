@@ -1,26 +1,26 @@
 {
   "status": "success",
-  "keyword": "Shades Tweaker Offline Installer",
-  "display_title": "Shades Tweaker Offline Installer",
+  "keyword": "Bleass Fusion Offline Installer",
+  "display_title": "Bleass Fusion Offline Installer",
   "category": "General Software",
-  "primary_keyword": "Shades Tweaker Offline Installer",
+  "primary_keyword": "Bleass Fusion Offline Installer",
   "secondary_keywords": [
-    "Shades Tweaker Offline Installer download",
-    "Shades Tweaker Offline Installer latest version",
-    "Shades Tweaker Offline Installer for Windows",
+    "Bleass Fusion Offline Installer download",
+    "Bleass Fusion Offline Installer latest version",
+    "Bleass Fusion Offline Installer for Windows",
     "General Software software"
   ],
   "hashtags": [
-    "Shades",
-    "Tweaker",
+    "Bleass",
+    "Fusion",
     "WindowsSoftware",
     "SoftwareDownload",
-    "Censorship",
-    "in",
-    "Turkey",
-    "Software"
+    "Offline",
+    "Installer",
+    "Software",
+    "Windows"
   ],
-  "caption_template_id": 3,
+  "caption_template_id": 0,
   "content_quality_score": 95,
   "facebook_page": {
     "id": "1251105351411133",
@@ -28,19 +28,19 @@
     "username": "latestsoftwaredownload",
     "link": "https://www.facebook.com/1251105351411133"
   },
-  "facebook_post_id": "1251105351411133_122135491029387405",
-  "facebook_photo_id": "122135491029387405",
-  "verified_object_id": "1251105351411133_122135491029387405",
+  "facebook_post_id": "1251105351411133_122135552199387405",
+  "facebook_photo_id": "122135552199387405",
+  "verified_object_id": "1251105351411133_122135552199387405",
   "facebook_permalink": "https://www.facebook.com/photo.php",
   "facebook_is_published": true,
-  "facebook_created_time": "2026-09-23T17:08:53+0000",
-  "facebook_full_picture": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/820501269_122135491041387405_1313307092197819682_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=eneCYKRiXkkQ7kNvwEmL8aH&_nc_oc=Ado_FDjGSs2aDMrE3niuPCza5PNueAakYzhZX7ALXRH5tu4UqzUGTKpiuYSnzjol07o&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=AJfPMC4EAAAA&_nc_gid=uCZMt8A-ACL6ywNe94d02g&_nc_tpa=Q5bMBQJkS2C4qqXGgWeNjUIJSE_rNgWCrYUqvsheCgUusU4ZCTEs0bWlw5vTU-o60RwNQBwyWfFBW-Wcig&oh=00_AQKpAFntxyP-xI3mTaoKuC34T7y8tIeZR5dwmdWodTwOJQ&oe=6AB9F36A",
+  "facebook_created_time": "2026-09-23T20:26:48+0000",
+  "facebook_full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/807888647_122135552205387405_8469991248262571074_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=rGux5r0hjDIQ7kNvwGpW2q3&_nc_oc=AdofnNhGG13zVqbDLP3-oMKg6kQ1i2aRsjinvw4a36xDvFfJn3E02DBvtytpK57akv8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJfPMC4EAAAA&_nc_gid=S-NX12LvR5EXM96Q_qDFAw&_nc_tpa=Q5bMBQKWbihWTb5hHiQ1DqiHKl7Mw7GNgr4MLS4HkwMscUOUPt817xrQ32g1vuvNAWk3RxBccB0OUtR8wA&oh=00_AQKovqP7fix-BBtx3KTbzXlrQbJGCFZwALhGY4PAN18IKA&oe=6ABA13B2",
   "publish_mode": "verified_existing_album_photo_v7",
   "facebook_album_id": "122113964517387405",
   "facebook_album_url": "https://www.facebook.com/album.php",
   "album_error": "",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Turkey_internet_ban_protest_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "image_mode": "remote_image",
-  "source_url": "https://en.wikipedia.org/wiki/Censorship_in_Turkey",
-  "posted_at": "2026-09-23T17:08:55.942047+00:00"
+  "image_url": "",
+  "image_mode": "generated_card",
+  "source_url": "",
+  "posted_at": "2026-09-23T20:26:51.683164+00:00"
 }
