@@ -4681,3 +4681,10 @@
 2026-09-26 19:55:50,033 [INFO] SUCCESS verified published photo: 1251105351411133_122136498951387405
 2026-09-26 19:55:50,033 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-26 19:55:50,033 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-26 22:55:47,084 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-26 22:55:47,084 [INFO] Processing: Tunnelbear Vpn Offline Installer
+2026-09-26 22:55:48,224 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-26 22:55:51,341 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-26 22:55:51,365 [INFO] SUCCESS verified published photo: 1251105351411133_122136527061387405
+2026-09-26 22:55:51,365 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-26 22:55:51,366 [INFO] Facebook album URL: https://www.facebook.com/album.php
