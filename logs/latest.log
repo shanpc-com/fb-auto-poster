@@ -4702,3 +4702,10 @@
 2026-09-27 08:16:54,622 [INFO] SUCCESS verified published photo: 1251105351411133_122136642513387405
 2026-09-27 08:16:54,622 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-27 08:16:54,622 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-27 14:05:46,665 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-27 14:05:46,666 [INFO] Processing: Total Video Converter Offline Installer
+2026-09-27 14:05:47,466 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-27 14:05:50,455 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-27 14:05:50,476 [INFO] SUCCESS verified published photo: 1251105351411133_122136719559387405
+2026-09-27 14:05:50,476 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-27 14:05:50,476 [INFO] Facebook album URL: https://www.facebook.com/album.php
