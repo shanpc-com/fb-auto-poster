@@ -4730,3 +4730,10 @@
 2026-09-28 00:54:02,607 [INFO] SUCCESS verified published photo: 1251105351411133_122136831009387405
 2026-09-28 00:54:02,607 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-28 00:54:02,607 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-28 07:00:25,406 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-28 07:00:25,406 [INFO] Processing: Bandizip Professional Offline Installer
+2026-09-28 07:00:26,650 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-28 07:00:31,865 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-28 07:00:31,888 [INFO] SUCCESS verified published photo: 1251105351411133_122136895143387405
+2026-09-28 07:00:31,888 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-28 07:00:31,888 [INFO] Facebook album URL: https://www.facebook.com/album.php
