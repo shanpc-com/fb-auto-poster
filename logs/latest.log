@@ -4793,3 +4793,10 @@
 2026-09-30 06:47:35,551 [INFO] SUCCESS verified published photo: 1251105351411133_122137546551387405
 2026-09-30 06:47:35,551 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-09-30 06:47:35,551 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-09-30 13:49:25,302 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-09-30 13:49:25,302 [INFO] Processing: Jihosoft File Recovery Offline Installer
+2026-09-30 13:49:25,982 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-09-30 13:49:29,907 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-09-30 13:49:29,925 [INFO] SUCCESS verified published photo: 1251105351411133_122137651971387405
+2026-09-30 13:49:29,926 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-09-30 13:49:29,926 [INFO] Facebook album URL: https://www.facebook.com/album.php
