@@ -4849,3 +4849,10 @@
 2026-10-02 05:46:40,650 [INFO] SUCCESS verified published photo: 1251105351411133_122138233275387405
 2026-10-02 05:46:40,650 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-02 05:46:40,650 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-02 12:44:34,607 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-02 12:44:34,607 [INFO] Processing: Splitcam Offline Installer
+2026-10-02 12:44:35,956 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-02 12:44:39,161 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-02 12:44:39,182 [INFO] SUCCESS verified published photo: 1251105351411133_122138326911387405
+2026-10-02 12:44:39,183 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-02 12:44:39,183 [INFO] Facebook album URL: https://www.facebook.com/album.php
