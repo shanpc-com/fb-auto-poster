@@ -5017,3 +5017,10 @@
 2026-10-07 16:35:23,666 [INFO] SUCCESS verified published photo: 1251105351411133_122139999201387405
 2026-10-07 16:35:23,666 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-07 16:35:23,666 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-07 22:02:12,923 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-07 22:02:12,923 [INFO] Processing: Wondershare Mobiletrans Offline Installer
+2026-10-07 22:02:14,007 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-07 22:02:17,845 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-07 22:02:17,868 [INFO] SUCCESS verified published photo: 1251105351411133_122140072233387405
+2026-10-07 22:02:17,868 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-07 22:02:17,868 [INFO] Facebook album URL: https://www.facebook.com/album.php
