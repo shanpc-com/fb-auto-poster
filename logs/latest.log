@@ -5031,3 +5031,10 @@
 2026-10-08 02:00:25,876 [INFO] SUCCESS verified published photo: 1251105351411133_122140115055387405
 2026-10-08 02:00:25,876 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-08 02:00:25,876 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-08 09:04:32,737 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-08 09:04:32,737 [INFO] Processing: Staad Pro Offline Installer
+2026-10-08 09:04:33,515 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-08 09:04:37,431 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-08 09:04:37,451 [INFO] SUCCESS verified published photo: 1251105351411133_122140190439387405
+2026-10-08 09:04:37,451 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-08 09:04:37,451 [INFO] Facebook album URL: https://www.facebook.com/album.php
