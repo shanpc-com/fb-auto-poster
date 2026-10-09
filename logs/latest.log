@@ -5052,3 +5052,10 @@
 2026-10-08 22:08:32,080 [INFO] SUCCESS verified published photo: 1251105351411133_122140371585387405
 2026-10-08 22:08:32,080 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-08 22:08:32,080 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-09 02:14:20,590 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-09 02:14:20,591 [INFO] Processing: Openshot Video Editor Offline Installer
+2026-10-09 02:14:21,645 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-09 02:14:26,178 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-09 02:14:26,200 [INFO] SUCCESS verified published photo: 1251105351411133_122140414077387405
+2026-10-09 02:14:26,200 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-09 02:14:26,200 [INFO] Facebook album URL: https://www.facebook.com/album.php
