@@ -5129,3 +5129,10 @@
 2026-10-11 12:58:53,040 [INFO] SUCCESS verified published photo: 1251105351411133_122141258313387405
 2026-10-11 12:58:53,040 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-11 12:58:53,040 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-11 18:07:28,380 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-11 18:07:28,380 [INFO] Processing: Roguekiller Offline Installer
+2026-10-11 18:07:29,319 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-11 18:07:32,662 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-11 18:07:32,686 [INFO] SUCCESS verified published photo: 1251105351411133_122141321169387405
+2026-10-11 18:07:32,686 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-11 18:07:32,687 [INFO] Facebook album URL: https://www.facebook.com/album.php
