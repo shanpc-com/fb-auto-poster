@@ -5185,3 +5185,10 @@
 2026-10-13 17:37:44,525 [INFO] SUCCESS verified published photo: 1251105351411133_122141934189387405
 2026-10-13 17:37:44,525 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-13 17:37:44,525 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-13 22:50:44,321 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-13 22:50:44,322 [INFO] Processing: Burp Suite Pro Offline Installer
+2026-10-13 22:50:45,562 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-13 22:50:49,048 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-13 22:50:49,068 [INFO] SUCCESS verified published photo: 1251105351411133_122141976615387405
+2026-10-13 22:50:49,068 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-13 22:50:49,068 [INFO] Facebook album URL: https://www.facebook.com/album.php
