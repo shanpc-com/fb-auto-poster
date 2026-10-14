@@ -5199,3 +5199,10 @@
 2026-10-14 01:57:10,868 [INFO] SUCCESS verified published photo: 1251105351411133_122142011769387405
 2026-10-14 01:57:10,868 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-14 01:57:10,868 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-14 07:43:08,555 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-14 07:43:08,555 [INFO] Processing: Blender Offline Installer
+2026-10-14 07:43:09,676 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-14 07:43:12,479 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-14 07:43:12,502 [INFO] SUCCESS verified published photo: 1251105351411133_122142064245387405
+2026-10-14 07:43:12,502 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-14 07:43:12,502 [INFO] Facebook album URL: https://www.facebook.com/album.php
