@@ -5213,3 +5213,10 @@
 2026-10-14 13:47:19,083 [INFO] SUCCESS verified published photo: 1251105351411133_122142143133387405
 2026-10-14 13:47:19,083 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-14 13:47:19,083 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-14 18:40:33,532 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-14 18:40:33,532 [INFO] Processing: Dvd Drive Repair Offline Installer
+2026-10-14 18:40:35,351 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-14 18:40:38,798 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-14 18:40:38,821 [INFO] SUCCESS verified published photo: 1251105351411133_122142188475387405
+2026-10-14 18:40:38,821 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-14 18:40:38,821 [INFO] Facebook album URL: https://www.facebook.com/album.php
