@@ -5297,3 +5297,10 @@
 2026-10-16 21:16:58,530 [INFO] SUCCESS verified published photo: 1251105351411133_122142904725387405
 2026-10-16 21:16:58,530 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-16 21:16:58,530 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-16 23:42:00,260 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-16 23:42:00,260 [INFO] Processing: Spyhunter Allgen Offline Installer
+2026-10-16 23:42:01,013 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-16 23:42:03,631 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-16 23:42:03,655 [INFO] SUCCESS verified published photo: 1251105351411133_122142922155387405
+2026-10-16 23:42:03,655 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-16 23:42:03,655 [INFO] Facebook album URL: https://www.facebook.com/album.php
