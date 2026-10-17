@@ -5339,3 +5339,10 @@
 2026-10-17 19:30:42,723 [INFO] SUCCESS verified published photo: 1251105351411133_122143212765387405
 2026-10-17 19:30:42,723 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-17 19:30:42,723 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-17 22:24:05,479 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-17 22:24:05,479 [INFO] Processing: Sketch Offline Installer
+2026-10-17 22:24:06,545 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-17 22:24:12,260 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-17 22:24:12,284 [INFO] SUCCESS verified published photo: 1251105351411133_122143235349387405
+2026-10-17 22:24:12,284 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-17 22:24:12,284 [INFO] Facebook album URL: https://www.facebook.com/album.php
