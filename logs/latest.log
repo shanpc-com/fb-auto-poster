@@ -5304,3 +5304,10 @@
 2026-10-16 23:42:03,655 [INFO] SUCCESS verified published photo: 1251105351411133_122142922155387405
 2026-10-16 23:42:03,655 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-16 23:42:03,655 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-17 04:35:32,685 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-17 04:35:32,685 [INFO] Processing: Outbyte Pc Repair Offline Installer
+2026-10-17 04:35:33,328 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-17 04:35:36,240 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-17 04:35:36,264 [INFO] SUCCESS verified published photo: 1251105351411133_122142964821387405
+2026-10-17 04:35:36,265 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-17 04:35:36,265 [INFO] Facebook album URL: https://www.facebook.com/album.php
