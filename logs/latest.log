@@ -5311,3 +5311,10 @@
 2026-10-17 04:35:36,264 [INFO] SUCCESS verified published photo: 1251105351411133_122142964821387405
 2026-10-17 04:35:36,265 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-17 04:35:36,265 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-17 09:27:01,994 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-17 09:27:01,994 [INFO] Processing: Turbo C Offline Installer
+2026-10-17 09:27:02,959 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-17 09:27:05,711 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-17 09:27:05,736 [INFO] SUCCESS verified published photo: 1251105351411133_122143075065387405
+2026-10-17 09:27:05,736 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-17 09:27:05,736 [INFO] Facebook album URL: https://www.facebook.com/album.php
