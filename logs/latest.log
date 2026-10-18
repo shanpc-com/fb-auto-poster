@@ -5388,3 +5388,10 @@
 2026-10-18 20:50:32,165 [INFO] SUCCESS verified published photo: 1251105351411133_122143459185387405
 2026-10-18 20:50:32,165 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-18 20:50:32,165 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-18 23:18:29,576 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-18 23:18:29,576 [INFO] Processing: Aiseesoft Foneeraser Offline Installer
+2026-10-18 23:18:30,197 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-18 23:18:34,700 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-18 23:18:34,720 [INFO] SUCCESS verified published photo: 1251105351411133_122143479663387405
+2026-10-18 23:18:34,720 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-18 23:18:34,720 [INFO] Facebook album URL: https://www.facebook.com/album.php
