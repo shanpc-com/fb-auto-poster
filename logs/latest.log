@@ -5409,3 +5409,10 @@
 2026-10-19 10:50:47,381 [INFO] SUCCESS verified published photo: 1251105351411133_122143606707387405
 2026-10-19 10:50:47,382 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-19 10:50:47,382 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-19 17:31:09,426 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-19 17:31:09,426 [INFO] Processing: Winrar Offline Installer
+2026-10-19 17:31:10,272 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-19 17:31:13,079 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-19 17:31:13,103 [INFO] SUCCESS verified published photo: 1251105351411133_122143706397387405
+2026-10-19 17:31:13,103 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-19 17:31:13,103 [INFO] Facebook album URL: https://www.facebook.com/album.php
