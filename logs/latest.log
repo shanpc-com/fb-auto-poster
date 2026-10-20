@@ -5444,3 +5444,10 @@
 2026-10-20 13:36:23,801 [INFO] SUCCESS verified published photo: 1251105351411133_122143893639387405
 2026-10-20 13:36:23,801 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-20 13:36:23,801 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-20 18:29:53,320 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-20 18:29:53,320 [INFO] Processing: Memu Android Emulator Offline Installer
+2026-10-20 18:29:54,022 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-20 18:29:56,932 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-20 18:29:56,956 [INFO] SUCCESS verified published photo: 1251105351411133_122143954353387405
+2026-10-20 18:29:56,957 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-20 18:29:56,957 [INFO] Facebook album URL: https://www.facebook.com/album.php
