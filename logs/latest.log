@@ -5423,3 +5423,10 @@
 2026-10-19 22:25:05,370 [INFO] SUCCESS verified published photo: 1251105351411133_122143762827387405
 2026-10-19 22:25:05,370 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-19 22:25:05,370 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-20 01:52:21,897 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-20 01:52:21,897 [INFO] Processing: Bytefence Anti Malware Pro Offline Installer
+2026-10-20 01:52:22,567 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-20 01:52:25,299 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-20 01:52:25,322 [INFO] SUCCESS verified published photo: 1251105351411133_122143787103387405
+2026-10-20 01:52:25,322 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-20 01:52:25,322 [INFO] Facebook album URL: https://www.facebook.com/album.php
