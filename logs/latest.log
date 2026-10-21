@@ -5458,3 +5458,10 @@
 2026-10-20 22:21:03,664 [INFO] SUCCESS verified published photo: 1251105351411133_122143985085387405
 2026-10-20 22:21:03,664 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-20 22:21:03,664 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-21 01:39:07,331 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-21 01:39:07,331 [INFO] Processing: Retouch Pro For Adobe Photoshop Offline Installer
+2026-10-21 01:39:09,161 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-21 01:39:12,193 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-21 01:39:12,215 [INFO] SUCCESS verified published photo: 1251105351411133_122144006745387405
+2026-10-21 01:39:12,216 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-21 01:39:12,216 [INFO] Facebook album URL: https://www.facebook.com/album.php
