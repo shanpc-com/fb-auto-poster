@@ -5486,3 +5486,10 @@
 2026-10-21 18:42:16,879 [INFO] SUCCESS verified published photo: 1251105351411133_122144198985387405
 2026-10-21 18:42:16,879 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-21 18:42:16,879 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-21 22:24:30,469 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-21 22:24:30,469 [INFO] Processing: Stellar Data Recovery Offline Installer
+2026-10-21 22:24:31,140 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-21 22:24:34,422 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-21 22:24:34,442 [INFO] SUCCESS verified published photo: 1251105351411133_122144247987387405
+2026-10-21 22:24:34,442 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-21 22:24:34,442 [INFO] Facebook album URL: https://www.facebook.com/album.php
