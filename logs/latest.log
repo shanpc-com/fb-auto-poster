@@ -5507,3 +5507,10 @@
 2026-10-22 07:40:02,980 [INFO] SUCCESS verified published photo: 1251105351411133_122144321529387405
 2026-10-22 07:40:02,981 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-22 07:40:02,981 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-22 13:51:04,037 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-22 13:51:04,037 [INFO] Processing: Anydesk Offline Installer
+2026-10-22 13:51:04,943 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-22 13:51:08,328 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-22 13:51:08,353 [INFO] SUCCESS verified published photo: 1251105351411133_122144384529387405
+2026-10-22 13:51:08,353 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-22 13:51:08,353 [INFO] Facebook album URL: https://www.facebook.com/album.php
