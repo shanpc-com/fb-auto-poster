@@ -5521,3 +5521,10 @@
 2026-10-22 18:35:09,038 [INFO] SUCCESS verified published photo: 1251105351411133_122144429055387405
 2026-10-22 18:35:09,038 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-22 18:35:09,038 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-22 22:23:50,702 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-22 22:23:50,702 [INFO] Processing: Itop Screen Recorder Pro Offline Installer
+2026-10-22 22:28:01,720 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-22 22:28:04,470 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-22 22:28:04,496 [INFO] SUCCESS verified published photo: 1251105351411133_122144462559387405
+2026-10-22 22:28:04,496 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-22 22:28:04,496 [INFO] Facebook album URL: https://www.facebook.com/album.php
