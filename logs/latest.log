@@ -5514,3 +5514,10 @@
 2026-10-22 13:51:08,353 [INFO] SUCCESS verified published photo: 1251105351411133_122144384529387405
 2026-10-22 13:51:08,353 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-22 13:51:08,353 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-22 18:35:05,266 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-22 18:35:05,266 [INFO] Processing: Vray For Sketchup Offline Installer
+2026-10-22 18:35:05,951 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-22 18:35:09,018 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-22 18:35:09,038 [INFO] SUCCESS verified published photo: 1251105351411133_122144429055387405
+2026-10-22 18:35:09,038 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-22 18:35:09,038 [INFO] Facebook album URL: https://www.facebook.com/album.php
