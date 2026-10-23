@@ -5528,3 +5528,10 @@
 2026-10-22 22:28:04,496 [INFO] SUCCESS verified published photo: 1251105351411133_122144462559387405
 2026-10-22 22:28:04,496 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-22 22:28:04,496 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-23 01:34:33,308 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-23 01:34:33,308 [INFO] Processing: Tor Browser Offline Installer
+2026-10-23 01:34:34,111 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-23 01:34:40,215 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-23 01:34:40,236 [INFO] SUCCESS verified published photo: 1251105351411133_122144484825387405
+2026-10-23 01:34:40,236 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-23 01:34:40,236 [INFO] Facebook album URL: https://www.facebook.com/album.php
