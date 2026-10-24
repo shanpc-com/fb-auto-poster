@@ -5577,3 +5577,10 @@
 2026-10-24 05:58:08,649 [INFO] SUCCESS verified published photo: 1251105351411133_122144815503387405
 2026-10-24 05:58:08,649 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-24 05:58:08,650 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-24 11:10:42,819 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-24 11:10:42,820 [INFO] Processing: Cisdem Video Converter Offline Installer
+2026-10-24 11:10:43,564 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-24 11:10:46,745 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-24 11:10:46,771 [INFO] SUCCESS verified published photo: 1251105351411133_122144867475387405
+2026-10-24 11:10:46,771 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-24 11:10:46,771 [INFO] Facebook album URL: https://www.facebook.com/album.php
