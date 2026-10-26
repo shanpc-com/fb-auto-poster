@@ -5668,3 +5668,10 @@
 2026-10-26 14:20:50,639 [INFO] SUCCESS verified published photo: 1251105351411133_122145321153387405
 2026-10-26 14:20:50,639 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-26 14:20:50,639 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-26 20:33:11,925 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-26 20:33:11,925 [INFO] Processing: Advanced Systemcare Pro 2 Offline Installer
+2026-10-26 20:33:12,763 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-26 20:33:16,177 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-26 20:33:16,194 [INFO] SUCCESS verified published photo: 1251105351411133_122145378147387405
+2026-10-26 20:33:16,194 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-26 20:33:16,194 [INFO] Facebook album URL: https://www.facebook.com/album.php
