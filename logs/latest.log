@@ -5647,3 +5647,10 @@
 2026-10-25 21:51:30,464 [INFO] SUCCESS verified published photo: 1251105351411133_122145176793387405
 2026-10-25 21:51:30,464 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-25 21:51:30,464 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-26 00:26:06,026 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-26 00:26:06,026 [INFO] Processing: Bitsum Parkcontrol Pro Offline Installer
+2026-10-26 00:26:06,947 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-26 00:26:09,381 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-26 00:26:09,397 [INFO] SUCCESS verified published photo: 1251105351411133_122145194955387405
+2026-10-26 00:26:09,397 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-26 00:26:09,397 [INFO] Facebook album URL: https://www.facebook.com/album.php
