@@ -5661,3 +5661,10 @@
 2026-10-26 06:20:36,385 [INFO] SUCCESS verified published photo: 1251105351411133_122145242331387405
 2026-10-26 06:20:36,385 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-26 06:20:36,385 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-26 14:20:44,851 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-26 14:20:44,851 [INFO] Processing: Driver Easy Pro Offline Installer
+2026-10-26 14:20:46,870 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-26 14:20:50,618 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-26 14:20:50,639 [INFO] SUCCESS verified published photo: 1251105351411133_122145321153387405
+2026-10-26 14:20:50,639 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-26 14:20:50,639 [INFO] Facebook album URL: https://www.facebook.com/album.php
