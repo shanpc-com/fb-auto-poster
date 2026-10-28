@@ -5724,3 +5724,10 @@
 2026-10-28 13:04:46,272 [INFO] SUCCESS verified published photo: 1251105351411133_122145730581387405
 2026-10-28 13:04:46,273 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-28 13:04:46,273 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-28 18:53:33,690 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-28 18:53:33,691 [INFO] Processing: Dvd Cloner Platinum Offline Installer
+2026-10-28 18:53:35,681 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-28 18:53:39,654 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-28 18:53:39,678 [INFO] SUCCESS verified published photo: 1251105351411133_122145781083387405
+2026-10-28 18:53:39,678 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-28 18:53:39,678 [INFO] Facebook album URL: https://www.facebook.com/album.php
