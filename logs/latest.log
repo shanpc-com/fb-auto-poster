@@ -5745,3 +5745,10 @@
 2026-10-29 02:31:29,529 [INFO] SUCCESS verified published photo: 1251105351411133_122145854013387405
 2026-10-29 02:31:29,529 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-29 02:31:29,529 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-29 10:05:45,464 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-29 10:05:45,464 [INFO] Processing: Driverpack Solution Offline Installer
+2026-10-29 10:05:47,005 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-29 10:05:49,801 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-29 10:05:49,818 [INFO] SUCCESS verified published photo: 1251105351411133_122145921117387405
+2026-10-29 10:05:49,818 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-29 10:05:49,818 [INFO] Facebook album URL: https://www.facebook.com/album.php
