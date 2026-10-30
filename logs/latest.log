@@ -5787,3 +5787,10 @@
 2026-10-30 15:58:36,444 [INFO] SUCCESS verified published photo: 1251105351411133_122146218939387405
 2026-10-30 15:58:36,444 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-10-30 15:58:36,444 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-10-30 20:50:55,425 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-10-30 20:50:55,425 [INFO] Processing: Ultraiso Offline Installer
+2026-10-30 20:50:56,725 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-10-30 20:51:00,433 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-10-30 20:51:00,449 [INFO] SUCCESS verified published photo: 1251105351411133_122146255023387405
+2026-10-30 20:51:00,449 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-10-30 20:51:00,449 [INFO] Facebook album URL: https://www.facebook.com/album.php
