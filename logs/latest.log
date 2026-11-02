@@ -5857,3 +5857,10 @@
 2026-11-01 21:13:15,641 [INFO] SUCCESS verified published photo: 1251105351411133_122146779117387405
 2026-11-01 21:13:15,641 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-01 21:13:15,642 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-02 00:49:56,599 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-02 00:49:56,600 [INFO] Processing: Gilisoft Video Editor Offline Installer
+2026-11-02 00:49:57,450 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-02 00:49:59,968 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-02 00:49:59,999 [INFO] SUCCESS verified published photo: 1251105351411133_122146804353387405
+2026-11-02 00:49:59,999 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-02 00:49:59,999 [INFO] Facebook album URL: https://www.facebook.com/album.php
