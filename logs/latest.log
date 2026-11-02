@@ -5871,3 +5871,10 @@
 2026-11-02 07:43:59,697 [INFO] SUCCESS verified published photo: 1251105351411133_122146894545387405
 2026-11-02 07:43:59,697 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-02 07:43:59,697 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-02 18:27:51,958 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-02 18:27:51,958 [INFO] Processing: Microsoft Office Offline Installer
+2026-11-02 18:27:53,754 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-02 18:27:57,152 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-02 18:27:57,175 [INFO] SUCCESS verified published photo: 1251105351411133_122147057013387405
+2026-11-02 18:27:57,175 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-02 18:27:57,175 [INFO] Facebook album URL: https://www.facebook.com/album.php
