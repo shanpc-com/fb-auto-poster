@@ -5885,3 +5885,10 @@
 2026-11-03 01:37:41,923 [INFO] SUCCESS verified published photo: 1251105351411133_122147115927387405
 2026-11-03 01:37:41,923 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-03 01:37:41,923 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-03 09:38:48,588 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-03 09:38:48,588 [INFO] Processing: Wavepad Sound Editor Offline Installer
+2026-11-03 09:38:50,462 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-03 09:38:53,493 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-03 09:38:53,511 [INFO] SUCCESS verified published photo: 1251105351411133_122147229687387405
+2026-11-03 09:38:53,511 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-03 09:38:53,511 [INFO] Facebook album URL: https://www.facebook.com/album.php
