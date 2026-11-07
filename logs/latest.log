@@ -5990,3 +5990,10 @@
 2026-11-07 08:52:27,158 [INFO] SUCCESS verified published photo: 1251105351411133_122148092841387405
 2026-11-07 08:52:27,158 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-07 08:52:27,158 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-07 15:42:43,155 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-07 15:42:43,155 [INFO] Processing: Proshow Producer Offline Installer
+2026-11-07 15:42:48,476 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-07 15:42:52,238 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-07 15:42:52,254 [INFO] SUCCESS verified published photo: 1251105351411133_122148185769387405
+2026-11-07 15:42:52,254 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-07 15:42:52,254 [INFO] Facebook album URL: https://www.facebook.com/album.php
