@@ -6144,3 +6144,10 @@
 2026-11-13 09:38:33,922 [INFO] SUCCESS verified published photo: 1251105351411133_122149655715387405
 2026-11-13 09:38:33,922 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-13 09:38:33,922 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-13 17:48:18,388 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-13 17:48:18,389 [INFO] Processing: Revo Uninstaller Pro Offline Installer
+2026-11-13 17:48:19,851 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-13 17:48:22,953 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-13 17:48:22,976 [INFO] SUCCESS verified published photo: 1251105351411133_122149739577387405
+2026-11-13 17:48:22,976 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-13 17:48:22,976 [INFO] Facebook album URL: https://www.facebook.com/album.php
