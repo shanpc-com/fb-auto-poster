@@ -6165,3 +6165,10 @@
 2026-11-14 06:35:08,398 [INFO] SUCCESS verified published photo: 1251105351411133_122149848441387405
 2026-11-14 06:35:08,398 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-14 06:35:08,398 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-14 14:13:48,599 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-14 14:13:48,599 [INFO] Processing: Movavi Video Suite Offline Installer
+2026-11-14 14:13:50,267 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-14 14:13:53,604 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-14 14:13:53,632 [INFO] SUCCESS verified published photo: 1251105351411133_122149931619387405
+2026-11-14 14:13:53,632 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-14 14:13:53,632 [INFO] Facebook album URL: https://www.facebook.com/album.php
