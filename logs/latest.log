@@ -6158,3 +6158,10 @@
 2026-11-13 23:38:02,929 [INFO] SUCCESS verified published photo: 1251105351411133_122149792299387405
 2026-11-13 23:38:02,929 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-13 23:38:02,929 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-14 06:35:03,239 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-14 06:35:03,239 [INFO] Processing: Movavi Screen Recorder Offline Installer
+2026-11-14 06:35:05,074 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-14 06:35:08,375 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-14 06:35:08,398 [INFO] SUCCESS verified published photo: 1251105351411133_122149848441387405
+2026-11-14 06:35:08,398 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-14 06:35:08,398 [INFO] Facebook album URL: https://www.facebook.com/album.php
