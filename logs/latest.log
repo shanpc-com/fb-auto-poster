@@ -6200,3 +6200,10 @@
 2026-11-15 11:05:12,420 [INFO] SUCCESS verified published photo: 1251105351411133_122150178423387405
 2026-11-15 11:05:12,421 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-15 11:05:12,421 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-15 17:47:00,728 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-15 17:47:00,728 [INFO] Processing: Wise Care 365 Pro Offline Installer
+2026-11-15 17:47:02,304 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-15 17:47:05,555 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-15 17:47:05,581 [INFO] SUCCESS verified published photo: 1251105351411133_122150237901387405
+2026-11-15 17:47:05,581 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-15 17:47:05,581 [INFO] Facebook album URL: https://www.facebook.com/album.php
