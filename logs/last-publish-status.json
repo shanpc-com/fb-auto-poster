@@ -1,26 +1,26 @@
 {
   "status": "success",
-  "keyword": "Cubase Pro Offline Installer",
-  "display_title": "Cubase Pro Offline Installer",
-  "category": "Audio & Video",
-  "primary_keyword": "Cubase Pro Offline Installer",
+  "keyword": "Foxit Reader Offline Installer",
+  "display_title": "Foxit Reader Offline Installer",
+  "category": "General Software",
+  "primary_keyword": "Foxit Reader Offline Installer",
   "secondary_keywords": [
-    "Cubase Pro Offline Installer download",
-    "Cubase Pro Offline Installer latest version",
-    "Cubase Pro Offline Installer for Windows",
-    "Audio & Video software"
+    "Foxit Reader Offline Installer download",
+    "Foxit Reader Offline Installer latest version",
+    "Foxit Reader Offline Installer for Windows",
+    "General Software software"
   ],
   "hashtags": [
-    "Cubase",
-    "Pro",
-    "VideoSoftware",
-    "AudioSoftware",
+    "Foxit",
+    "Reader",
+    "WindowsSoftware",
+    "SoftwareDownload",
+    "Offline",
+    "Installer",
     "Software",
-    "Windows",
-    "Download",
-    "LatestSoftwareDownload"
+    "Windows"
   ],
-  "caption_template_id": 3,
+  "caption_template_id": 0,
   "content_quality_score": 95,
   "facebook_page": {
     "id": "1251105351411133",
@@ -28,19 +28,19 @@
     "username": "latestsoftwaredownload",
     "link": "https://www.facebook.com/1251105351411133"
   },
-  "facebook_post_id": "1251105351411133_122150072073387405",
-  "facebook_photo_id": "122150072073387405",
-  "verified_object_id": "1251105351411133_122150072073387405",
+  "facebook_post_id": "1251105351411133_122150178423387405",
+  "facebook_photo_id": "122150178423387405",
+  "verified_object_id": "1251105351411133_122150178423387405",
   "facebook_permalink": "https://www.facebook.com/photo.php",
   "facebook_is_published": true,
-  "facebook_created_time": "2026-11-15T02:44:57+0000",
-  "facebook_full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/907644376_122150072085387405_1330975878994172337_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=wldMrdT4fygQ7kNvwFmDR-T&_nc_oc=AdrMBpZzcU4uNCo_ymHHa3NsOpq_lVJMVrLfXbS669zj3j3ybcxlBRffM3r56PzrqZg&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=8ECGoYJyR8US5qv2V504zg&_nc_tpa=Q5bMBQLmksz2ypmkhwktmcjlpj3uki0uOP5A_kanc-XrJMBMzqQ2w39zYYgDt3dzqbkmcH9Bz9G2hlUENg&oh=00_AQQFpz2ZekvTM6rZWGXb6xq10F56AxmlEg_m9AgOFcE5Eg&oe=6AFF03DE",
+  "facebook_created_time": "2026-11-15T11:05:09+0000",
+  "facebook_full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/911690296_122150178429387405_5149274587915499993_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=IE8JmE1DlxcQ7kNvwE0Q0Zj&_nc_oc=AdpbfYNg9qbV2YC-zriEhFGkecNzDUbPyStzzP0MZweqQ_i3QugYKPe7PIqvi-2u_6g&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=ABAhdYQ6ZU7gO410Z4Zkfw&_nc_tpa=Q5bMBQKOMpEbcfPXyWXXgD08xe-CN3IMCcNa_vhfrtYyuYlXOAooj3pCLaC0SfO3Mp94BBnmNwTQFJAnHg&oh=00_AQQBf4YojYrkiVw6Yqt3udsxG5k2GhhgPlx_lrbV5P4zZA&oe=6AFF7C25",
   "publish_mode": "verified_existing_album_photo_v7",
   "facebook_album_id": "122113964517387405",
   "facebook_album_url": "https://www.facebook.com/album.php",
   "album_error": "",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Cubase_6_feature_collage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "image_mode": "remote_image",
-  "source_url": "https://en.wikipedia.org/wiki/Cubase",
-  "posted_at": "2026-11-15T02:45:00.963760+00:00"
+  "image_url": "",
+  "image_mode": "generated_card",
+  "source_url": "",
+  "posted_at": "2026-11-15T11:05:12.401432+00:00"
 }
