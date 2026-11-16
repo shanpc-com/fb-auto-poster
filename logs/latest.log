@@ -6228,3 +6228,10 @@
 2026-11-16 11:34:08,526 [INFO] SUCCESS verified published photo: 1251105351411133_122150445225387405
 2026-11-16 11:34:08,526 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-16 11:34:08,526 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-16 22:13:07,945 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-16 22:13:07,945 [INFO] Processing: Chrispc Cpu Booster Offline Installer
+2026-11-16 22:13:09,588 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-16 22:13:11,988 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-16 22:13:12,005 [INFO] SUCCESS verified published photo: 1251105351411133_122150587755387405
+2026-11-16 22:13:12,005 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-16 22:13:12,005 [INFO] Facebook album URL: https://www.facebook.com/album.php
