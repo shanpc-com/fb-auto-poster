@@ -6235,3 +6235,10 @@
 2026-11-16 22:13:12,005 [INFO] SUCCESS verified published photo: 1251105351411133_122150587755387405
 2026-11-16 22:13:12,005 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-16 22:13:12,005 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-17 04:34:19,735 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-17 04:34:19,735 [INFO] Processing: Handbrake Offline Installer
+2026-11-17 04:34:21,544 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-17 04:34:24,600 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-17 04:34:24,623 [INFO] SUCCESS verified published photo: 1251105351411133_122150637645387405
+2026-11-17 04:34:24,624 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-17 04:34:24,624 [INFO] Facebook album URL: https://www.facebook.com/album.php
