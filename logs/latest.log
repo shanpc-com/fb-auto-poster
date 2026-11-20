@@ -6298,3 +6298,10 @@
 2026-11-19 22:12:59,985 [INFO] SUCCESS verified published photo: 1251105351411133_122151474003387405
 2026-11-19 22:12:59,985 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-19 22:12:59,985 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-20 03:26:42,738 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-20 03:26:42,738 [INFO] Processing: Coolmuster Lab Fone For Android Offline Installer
+2026-11-20 03:26:44,368 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-20 03:26:47,490 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-20 03:26:47,518 [INFO] SUCCESS verified published photo: 1251105351411133_122151582879387405
+2026-11-20 03:26:47,518 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-20 03:26:47,518 [INFO] Facebook album URL: https://www.facebook.com/album.php
