@@ -6340,3 +6340,10 @@
 2026-11-21 18:04:41,926 [INFO] SUCCESS verified published photo: 1251105351411133_122152001757387405
 2026-11-21 18:04:41,926 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-21 18:04:41,926 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-21 23:25:01,223 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-21 23:25:01,223 [INFO] Processing: Ninja Manager Pro Offline Installer
+2026-11-21 23:25:03,409 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-21 23:25:06,182 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-21 23:25:06,209 [INFO] SUCCESS verified published photo: 1251105351411133_122152038315387405
+2026-11-21 23:25:06,209 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-21 23:25:06,209 [INFO] Facebook album URL: https://www.facebook.com/album.php
