@@ -6326,3 +6326,10 @@
 2026-11-21 02:25:04,538 [INFO] SUCCESS verified published photo: 1251105351411133_122151870741387405
 2026-11-21 02:25:04,538 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-21 02:25:04,538 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-21 11:15:34,214 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-21 11:15:34,214 [INFO] Processing: Renee Video Editor Pro Offline Installer
+2026-11-21 11:15:35,877 [INFO] Prepared post image (remote_image): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-21 11:15:40,701 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-21 11:15:40,734 [INFO] SUCCESS verified published photo: 1251105351411133_122151945603387405
+2026-11-21 11:15:40,734 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-21 11:15:40,734 [INFO] Facebook album URL: https://www.facebook.com/album.php
