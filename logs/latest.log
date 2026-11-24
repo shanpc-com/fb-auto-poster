@@ -6382,3 +6382,10 @@
 2026-11-23 12:59:56,684 [INFO] SUCCESS verified published photo: 1251105351411133_122152370559387405
 2026-11-23 12:59:56,684 [INFO] Clean public permalink: https://www.facebook.com/photo.php
 2026-11-23 12:59:56,684 [INFO] Facebook album URL: https://www.facebook.com/album.php
+2026-11-24 00:58:24,146 [INFO] Verified Page: Latest Software Full Version Download (@latestsoftwaredownload) https://www.facebook.com/1251105351411133
+2026-11-24 00:58:24,147 [INFO] Processing: Easyworship Offline Installer
+2026-11-24 00:58:26,423 [INFO] Prepared post image (generated_card): /home/runner/work/fb-auto-poster/fb-auto-poster/assets/current-post.jpg
+2026-11-24 00:58:29,413 [INFO] Published into existing album: https://www.facebook.com/album.php
+2026-11-24 00:58:29,447 [INFO] SUCCESS verified published photo: 1251105351411133_122152513989387405
+2026-11-24 00:58:29,447 [INFO] Clean public permalink: https://www.facebook.com/photo.php
+2026-11-24 00:58:29,447 [INFO] Facebook album URL: https://www.facebook.com/album.php
